@@ -11,7 +11,6 @@ menu:
 - {name: 'E30 Touring',        url: 'e30-touring'}
 - {name: 'E46 M3',             url: 'e46-m3'}
 - {name: 'Mk4 GTI',            url: 'mk4-gti'}
-- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
