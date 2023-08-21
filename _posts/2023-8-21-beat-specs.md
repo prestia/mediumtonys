@@ -19,7 +19,7 @@ Everglade Green Metallic
 White tiger
 
 ## Details
-Originally important from Japan in November 2022. Purchased at auction on 8/14/2023 with 21,800 miles. Rare 1994 "Version Z" with triple black gauges, mud guards, rear spoiler, exhaust pipe finisher, and alloy wheels.
+Originally imported from Japan in November 2022. Purchased at auction on 8/14/2023 with 21,800 miles. Rare 1994 "Version Z" with triple black gauges, mud guards, rear spoiler, exhaust pipe finisher, and alloy wheels.
 
 ## Modifications
 Came with a Momo Ferrari-branded steering wheel and Japanese electronic toll card reader.
