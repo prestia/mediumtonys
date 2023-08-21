@@ -5,6 +5,7 @@ author: "Medium Tony"
 categories: beat
 tags: [beat,specs]
 image: 1994-honda-beat.jpg
+date: 2023-08-21 08:00:04
 ---
 ## Engine
 656 cc E07A MTREC inline-3
