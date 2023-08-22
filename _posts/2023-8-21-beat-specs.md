@@ -19,7 +19,7 @@ Everglade Green Metallic
 ## Interior
 White tiger w/ Ferrari-branded Momo steering wheel
 
-![interior](/assets/img/1994-honda-beat-interior.jpg)
+![Interior](/assets/img/1994-honda-beat-interior.jpg)
 
 ## Details
 Originally imported from Japan in November 2022. Purchased at auction on 8/14/2023 with 21,800 miles. Rare 1994 "Version Z" with triple black gauges, mud guards, rear spoiler, exhaust pipe finisher, and alloy wheels.
