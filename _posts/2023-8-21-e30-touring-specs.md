@@ -40,3 +40,4 @@ This slicktop 320i was originally imported from Italy by a dealer prior to COVID
 * Keyless entry
 * Phone mount
 * Center console cup holder
+* A/C converted to R134
