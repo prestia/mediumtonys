@@ -30,6 +30,7 @@ Prior to purchase:
 * 034 Motorsport engine mounts
 * Drilled & slotted front rotors
 * JVC head unit
+* Lightened flywheel
 
 After purchase:
 * Hood pins
