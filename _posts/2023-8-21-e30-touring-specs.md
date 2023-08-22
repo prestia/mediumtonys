@@ -22,7 +22,7 @@ Black leather w/ M Tech II anthracite fabric inserts and door cards; alcantara h
 ![Picture of E30 Touring interior with custom upholstery.](assets/img/1988-e30-touring-interior.jpg)
 
 ## Details
-This slicktop 320i was originally imported from Italy by a dealer prior to COVID. It's had two prior U.S. owners. The first runs Dynasport in Portland, OR; the second was a customer of Dynasport who purchased the car and sold it to me. All modifications happened prior to my ownership except for the engine swap. The original M20B20 was replaced with an M54B30 from an e46 330i.
+This slicktop 320i was originally imported from Italy by a dealer prior to COVID. It's had two prior U.S. owners. The first runs Dynasport in Portland, OR; the second was a customer of Dynasport who purchased the car and sold it to me. All modifications happened prior to my ownership except for the engine swap. The original M20B20 and gearbox were replaced with an M54B30 and 5-speed manual from an E46 330i.
 
 ## Modifications
 * M54B30 and 5-speed ZF manual transmission
