@@ -17,7 +17,7 @@ Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz
 To make this more concrete, here's how a few LA radio stations would be reduced:
 
 | Station | True Frequency | In-car Frequency | Genre |
-|:--------|:-------:|:-------:|--------:|
+|:-------:|:-------:|:-------:|:-------:|
 |  KROQ   |  106.7  |  78.7   | Alt. Rock |
 |  KLOS   |  95.5   |  81.5   | Rock/AOR |
 |  KCRW   |  89.9   |  ??     | NPR member |
