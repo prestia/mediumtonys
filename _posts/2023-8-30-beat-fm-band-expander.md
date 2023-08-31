@@ -32,8 +32,8 @@ To make this more concrete, here's how a few LA radio stations would be reduced:
 |  KRRL   |  92.3   |  78.3   | Hip-hop |
 |  KDAY   |  93.5   |  79.5   | Classic hip-hop |
 |  KTWV   |  94.7   |  80.7   | Urban contemporary |
-|  KLOS   |  95.5   |  81.5   | Rock/AOR |
-|  KYSR   |  98.7   |  84.6   | ALternative |
+|  KLOS   |  95.5   |  81.5   | Classic rock |
+|  KYSR   |  98.7   |  84.6   | Alternative |
 |  KIIS   |  102.7  |  88.7   | Top 40 |
 |  KBIG   |  104.3  |  76.3   | 90s to now |
 |  KPWR   |  105.9  |  77.9   | Hip-hop |
