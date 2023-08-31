@@ -15,7 +15,11 @@ The name "band expander" is a bit misleading. The device doesn't allow your radi
 
 ![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](assets/img/beat-fm-band-expander/band-expander.jpg)
 
-Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz). This strikes me as odd for two reasons: (1) There's no way to tune in to any stations above 87.5/88 MHz but below 90 MHz; and (2) some of the stations could collide (e.g., 91.4 and 105.4 would both reduce to 77.4). I've yet to spend any time confirming whether these are genuine problems, but I'll update this post when I do.
+Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz). This strikes me as odd for two reasons:
+1. There's no way to tune in to any stations above 87.5/88 MHz but below 90 MHz; and
+2. some of the stations could collide (e.g., 91.4 and 105.4 would both reduce to 77.4).
+
+I've yet to spend any time confirming whether these are genuine problems, but I'll update this post when I do. Some amount of variable conversion makes sense -- after all, the Japanese band is 1 MHz narrower -- but this particular solution seems to introduce a lot of potential collision and _still_ misses 2 MHz of the U.S. FM band.
 
 To make this more concrete, here's how a few LA radio stations would be reduced:
 
