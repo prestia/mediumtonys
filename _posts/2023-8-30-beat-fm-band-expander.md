@@ -6,9 +6,12 @@ categories: beat
 tags: [beat,diy]
 image: beat-fm-band-expander/rav-helper.jpg
 ---
+## Intro
 If you're reading this tutorial, it's probably because you were confused/disappointed/flummoxed when your freshly-imported Beat could only tune in to one or two radio stations. If you're wondering why, it's because your Japanese radio works in the [76-95 MHz band](https://en.wikipedia.org/wiki/FM_broadcasting_in_Japan) and your region probably uses the [87.5/88-108 MHz band](https://en.wikipedia.org/wiki/FM_broadcast_band) for FM radio.
 
-Thankfully, if you have the stock Honda Beat head unit, there's a relatively simple fix. All you need to do is install a cheap "band expander" to enable your radio to tune in to stations above 95 MHz. The name "band expander" is a bit of a misnomer because the device doesn't allow your radio to tune in to a wider range of stations. Rather, it shifts the frequency of each station by a set amount. As a result, your head unit will still show 76-95 but you'll actually be listening to something 14Mhz (or 28 MHz) higher.
+Thankfully, if you have the stock Honda Beat Gathers head unit, there's a relatively simple fix: All you need to do is install a cheap "band expander" to enable your radio to tune in to stations above 95 MHz.
+
+The name "band expander" is a bit of a misnomer because the device doesn't allow your radio to tune in to a wider range of stations. Rather, it shifts the frequency of each station by a set amount. As a result, your head unit will still show 76-95 but you'll actually be listening to something 14Mhz (or 28 MHz) higher.
 
 ![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](assets/img/beat-fm-band-expander/band-expander.jpg)
 
