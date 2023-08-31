@@ -16,27 +16,43 @@ The name "band expander" is a bit misleading. The device doesn't allow your radi
 ![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](assets/img/beat-fm-band-expander/band-expander.jpg)
 
 Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz). This strikes me as odd for two reasons:
-1. There's no way to tune in to any stations above 87.5/88 MHz but below 90 MHz; and
+1. There's no way to tune in to any stations above 87.5/88 MHz but below 90 MHz, unless they aren't reduced at all; and
 2. some of the stations could collide (e.g., 91.4 and 105.4 would both reduce to 77.4).
 
 I've yet to spend any time confirming whether these are genuine problems, but I'll update this post when I do. Some amount of variable conversion makes sense — after all, the Japanese band is 1 MHz narrower — but this particular solution seems to introduce a lot of potential collision and _still_ misses 2 MHz of the U.S. FM band.
 
 To make this more concrete, here's how a few LA radio stations would be reduced:
 
-| Station | True Frequency | In-car Frequency | Genre |
+| Station | True Frequency | In-car Frequency | Format |
 |:-------:|:-------:|:-------:|:-------:|
-|  KROQ   |  106.7  |  78.7   | Alt. Rock |
-|  KLOS   |  95.5   |  81.5   | Rock/AOR |
-|  KCRW   |  89.9   |  ??     | NPR member |
-|  KPWR   |  105.9  |  77.9   | Hip-hop |
-|  KXLU   |  88.9   |  ??     | College |
+|  KKJZ   |  88.1   |  88.1     | Jazz |
+|  KXLU   |  88.9   |  88.9     | College |
+|  KCRW   |  89.9   |  89.9     | Public radio |
 |  KUSC   |  91.5   |  77.5   | College |
-|  KKJZ   |  88.1   |  ??     | Jazz |
-|  KTWV   |  94.7   |  80.7   | Adult contemporary |
-|  KDAY   |  93.5   |  79.5   | Classic hip-hop |
 |  KRRL   |  92.3   |  78.3   | Hip-hop |
+|  KDAY   |  93.5   |  79.5   | Classic hip-hop |
+|  KTWV   |  94.7   |  80.7   | Urban contemporary |
+|  KLOS   |  95.5   |  81.5   | Rock/AOR |
+|  KYSR   |  98.7   |  84.6   | ALternative |
+|  KIIS   |  102.7  |  88.7   | Top 40 |
 |  KBIG   |  104.3  |  76.3   | 90s to now |
-|  KIIS   |  102.7  |  88.7   | Pop |
+|  KPWR   |  105.9  |  77.9   | Hip-hop |
+|  KROQ   |  106.7  |  78.7   | Alternative |
+
+And, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?select=city&city=Los%20Angeles&state=CA) data, these are all of the potential conflicts in Los Angeles:
+
+| Freq | Station 1 | Station 2 | Conflicting Formats |
+|:-------:|:-------:|:-------:|:-------:|
+| 76.3 | 90.3 | 104.3 | Spanish/Adult contemporary |
+| 76.7 | 90.7 | 104.7 | Public radio/Rhythmic oldies |
+| 77.1 | 91.1 | 105.1 | Classical/Country |
+| 77.5 | 91.5 | 105.5 | Classical/Regional Mexican |
+| 77.9 | 91.9 | 105.9 | Christian/Hip-hop |
+| 78.3 | 92.3 | 106.3 | Hip-hop/Asian |
+| 79.1 | 93.1 | 107.1 | Adult hits/Spanish hits |
+| 79.5 | 93.5 | 107.5 | Classic hip-hop/Spanish hits |
+| 88.7 | 88.7 | 102.7 | College/Top 40 |
+| 89.9 | 89.9 | 103.9 | Publish radio/Spanish hits |
 
 ## Parts & tools
 1. FM band expander (I bought [this cheap one](https://www.amazon.com/dp/B07TV7MWT1) on Amazon)
