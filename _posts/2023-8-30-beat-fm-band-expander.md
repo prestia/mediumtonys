@@ -7,15 +7,15 @@ tags: [beat,diy]
 image: beat-fm-band-expander/rav-helper.jpg
 ---
 ## Intro
-If you're reading this tutorial, it's probably because you were confused/disappointed/flummoxed when your freshly-imported Beat could only tune in to one or two radio stations. If you're wondering why, it's because your Japanese radio works in the [76-95 MHz band](https://en.wikipedia.org/wiki/FM_broadcasting_in_Japan) and your region probably uses the [87.5/88-108 MHz band](https://en.wikipedia.org/wiki/FM_broadcast_band) for FM radio.
+If you're reading this tutorial, it's probably because you were confused, disappointed, or flummoxed when your freshly-imported Beat could only tune in to 1 or 2 radio stations. If you're wondering why, it's because your Japanese radio works in the [76-95 MHz band](https://en.wikipedia.org/wiki/FM_broadcasting_in_Japan) and your region probably uses the [87.5/88-108 MHz band](https://en.wikipedia.org/wiki/FM_broadcast_band) for FM radio.
 
-Thankfully, if you have the stock Honda Beat Gathers head unit, there's a relatively simple fix: All you need to do is install a cheap "band expander" to enable your radio to tune in to stations above 95 MHz.
+Thankfully, if you have the stock Honda Beat Gathers head unit, there's a relatively simple fix: Install a "band expander" to tune in to stations above 95 MHz.
 
-The name "band expander" is a bit of a misnomer because the device doesn't allow your radio to tune in to a wider range of stations. Rather, it shifts the frequency of each station by a set amount. As a result, your head unit will still show 76-95 but you'll actually be listening to something 14Mhz (or 28 MHz) higher.
+The name "band expander" is a bit misleading. The device doesn't allow your radio to tune in to a wider range of stations. Rather, it shifts the frequency of each station by a set amount. Your head unit will still show 76-95 but you'll actually be listening to something 14Mhz (or 28 MHz) higher.
 
 ![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](assets/img/beat-fm-band-expander/band-expander.jpg)
 
-Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz). This strikes me as odd for two reasons: (1) There's no way to tune in to any stations above 87.5/88 MHz but below 90 MHz; and (2) it seems like some of the stations could collide (e.g., 91.4 and 105.4 would both reduce to 77.4). I've yet to spend any time confirming whether these are genuine problems, but I'll update this post when I do. I can, however, confirm 
+Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz). This strikes me as odd for two reasons: (1) There's no way to tune in to any stations above 87.5/88 MHz but below 90 MHz; and (2) some of the stations could collide (e.g., 91.4 and 105.4 would both reduce to 77.4). I've yet to spend any time confirming whether these are genuine problems, but I'll update this post when I do.
 
 To make this more concrete, here's how a few LA radio stations would be reduced:
 
