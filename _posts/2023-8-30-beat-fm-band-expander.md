@@ -15,11 +15,7 @@ The name "band expander" is a bit misleading. The device doesn't allow your radi
 
 ![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](assets/img/beat-fm-band-expander/band-expander.jpg)
 
-Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz). This strikes me as odd for two reasons:
-1. There's no way to tune in to any stations above 87.5/88 MHz but below 90 MHz, unless they aren't reduced at all; and
-2. some of the stations could collide (e.g., 91.4 and 105.4 would both reduce to 77.4).
-
-I've yet to spend any time confirming whether these are genuine problems, but I'll update this post when I do. Some amount of variable conversion makes sense — after all, the Japanese band is 1 MHz narrower — but this particular solution seems to introduce a lot of potential collision and _still_ misses 2 MHz of the U.S. FM band.
+Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz).
 
 To make this more concrete, here's how a few LA radio stations would be reduced:
 
@@ -39,7 +35,10 @@ To make this more concrete, here's how a few LA radio stations would be reduced:
 |  KPWR   |  105.9  |  77.9   | Hip-hop |
 |  KROQ   |  106.7  |  78.7   | Alternative |
 
-And, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?select=city&city=Los%20Angeles&state=CA) data, these are all of the potential conflicts in Los Angeles:
+## Drawbacks
+The main drawback of using a band expander is that we're trying to get a radio that can receive 14 MHz of spectrum to receive 20 MHz of spectrum. In this way, I guess it _technically_ does expand the available FM bands. However, in practice, it's more likely to create frequency collisions that reduce the number of stations you can hear clearly.
+
+For exmaple, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?select=city&city=Los%20Angeles&state=CA) data, these are all of the potential conflicts in Los Angeles:
 
 | Freq | Station 1 | Station 2 | Conflicting Formats |
 |:-------:|:-------:|:-------:|:-------:|
@@ -53,6 +52,8 @@ And, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?select=ci
 | 79.5 | 93.5 | 107.5 | Classic hip-hop/Spanish hits |
 | 88.7 | 88.7 | 102.7 | College/Top 40 |
 | 89.9 | 89.9 | 103.9 | Publish radio/Spanish hits |
+
+There are some _very_ popular channels in there, but I suppose it's still much better than having no radio at all.
 
 To determine the potential frequency collisions in your area:
 1. Look up the available stations in your Zip code on [Radio Locator](https://radio-locator.com/).
