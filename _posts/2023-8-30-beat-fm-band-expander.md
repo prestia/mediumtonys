@@ -19,7 +19,7 @@ Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz
 1. There's no way to tune in to any stations above 87.5/88 MHz but below 90 MHz; and
 2. some of the stations could collide (e.g., 91.4 and 105.4 would both reduce to 77.4).
 
-I've yet to spend any time confirming whether these are genuine problems, but I'll update this post when I do. Some amount of variable conversion makes sense -- after all, the Japanese band is 1 MHz narrower -- but this particular solution seems to introduce a lot of potential collision and _still_ misses 2 MHz of the U.S. FM band.
+I've yet to spend any time confirming whether these are genuine problems, but I'll update this post when I do. Some amount of variable conversion makes sense — after all, the Japanese band is 1 MHz narrower — but this particular solution seems to introduce a lot of potential collision and _still_ misses 2 MHz of the U.S. FM band.
 
 To make this more concrete, here's how a few LA radio stations would be reduced:
 
@@ -54,8 +54,10 @@ The back of your Gathers head unit looks like this:
 
 ![Picture of the back of a Honda Beat Gathers head unit with the antenna port circled in red.](assets/img/beat-fm-band-expander/radio-back.jpg)
 
-The bit circled in red is the port where you radio antenna plugs in, and it's where we'll insert our band expander.
+The bit circled in red is the port where your radio antenna plugs in, and it's where we'll insert our band expander.
 
 Fortunately, you should be able to reach this port without removing the head unit. Simply peel back the carpet in the driver's footwell until you can see the antenna cable poking out:
 
 ![Picture of driver's side carpet pulled back with the radio antenna cable circled in red.](assets/img/beat-fm-band-expander/carpet-pulled-back.jpg)
+
+You should only need to undo a bit of velcro and get around a single snap. It really doesn't take much. You'll also have fewer wires and obstacles in the way — I have a Japanese electronic toll card installed in this same spot.
