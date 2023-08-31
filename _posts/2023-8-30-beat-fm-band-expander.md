@@ -83,3 +83,5 @@ Fortunately, you should be able to reach this port without removing the head uni
 ![Picture of driver's side carpet pulled back with the radio antenna cable circled in red.](assets/img/beat-fm-band-expander/carpet-pulled-back.jpg)
 
 You should only need to undo a bit of velcro and get around a single snap. It really doesn't take much. You'll also have fewer wires and obstacles in the way — I have a Japanese electronic toll card installed in this same spot.
+
+For reference, that small gold screw in front of the antenna cable is one of the only two holding the head unit in place. If, for some reason, you need to remove the head unit, just undo that gold screw and its twin on the other side. Please remember that these are JIS screws and a normal Phillips head could strip it!
