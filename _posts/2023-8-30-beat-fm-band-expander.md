@@ -39,11 +39,23 @@ To make this more concrete, here's how a few LA radio stations would be reduced:
 |  KIIS   |  102.7  |  88.7   | Pop |
 
 ## Parts & tools
-1. Cheap FM band expander (I bought [this one](https://www.amazon.com/dp/B07TV7MWT1) on Amazon)
-2. Multimeter (a cheap one capable of measuring 12v DC will do)
+1. FM band expander (I bought [this cheap one](https://www.amazon.com/dp/B07TV7MWT1) on Amazon)
+2. Multimeter (anything capable of measuring 12v DC will do)
 3. 22-18 AWG ring terminal
 4. 22-18 AWG quick diconnect
 5. Crimp tool
 6. 22-18 AWG insulated wire (optional)
 
 ## Instructions
+
+### Step 1: Peel back carpet to gain access to antenna connection
+
+The back of your Gathers head unit looks like this:
+
+![Picture of the back of a Honda Beat Gathers head unit with the antenna port circled in red.](assets/img/beat-fm-band-expander/radio-back.jpg)
+
+The bit circled in red is the port where you radio antenna plugs in, and it's where we'll insert our band expander.
+
+Fortunately, you should be able to reach this port without removing the head unit. Simply peel back the carpet in the driver's footwell until you can see the antenna cable poking out:
+
+![Picture of driver's side carpet pulled back with the radio antenna cable circled in red.](assets/img/beat-fm-band-expander/carpet-pulled-back.jpg)
