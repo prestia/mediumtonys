@@ -54,6 +54,11 @@ And, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?select=ci
 | 88.7 | 88.7 | 102.7 | College/Top 40 |
 | 89.9 | 89.9 | 103.9 | Publish radio/Spanish hits |
 
+To determine the potential frequency collisions in your area:
+1. Look up the available stations in your Zip code on [Radio Locator](https://radio-locator.com/).
+2. Add 14 to each station under 90 MHz to see if there's a conflict (e.g., if your area gets 88.7 and 102.7, you have a conflict because 88.7 + 14 = 102.7).
+3. Subtract 14 from each station over 104 MHz to see if there's a conflict (e.g., if your area gets 106.3 and 92.3, you have a conflict because 106.3 - 14 = 92.3).
+
 ## Parts & tools
 1. FM band expander (I bought [this cheap one](https://www.amazon.com/dp/B07TV7MWT1) on Amazon)
 2. Multimeter (anything capable of measuring 12v DC will do)
