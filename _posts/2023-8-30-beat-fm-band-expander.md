@@ -23,7 +23,7 @@ I've yet to spend any time confirming whether these are genuine problems, but I'
 
 To make this more concrete, here's how a few LA radio stations would be reduced:
 
-| Station | True Frequency | In-car Frequency | Format |
+| Station | True Freq | In-car Freq | Format |
 |:-------:|:-------:|:-------:|:-------:|
 |  KKJZ   |  88.1   |  88.1     | Jazz |
 |  KXLU   |  88.9   |  88.9     | College |
