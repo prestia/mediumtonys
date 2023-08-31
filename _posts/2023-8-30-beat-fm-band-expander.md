@@ -53,7 +53,7 @@ For exmaple, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?s
 | 88.7 | 88.7 | 102.7 | College/Top 40 |
 | 89.9 | 89.9 | 103.9 | Public radio/Spanish hits |
 
-There are some very popular stations in there — KCRW, KDAY, KIIS, KBIG, KPWR, but it's still much better than having no radio at all.
+There are some very popular stations in there — KCRW, KDAY, KIIS, KBIG, KPWR — but it's still much better than having no radio at all.
 
 To determine the potential frequency collisions in your area:
 1. Look up the available stations in your Zip code on [Radio Locator](https://radio-locator.com/).
