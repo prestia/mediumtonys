@@ -88,7 +88,7 @@ While this tutorial doesn't require removal of the head unit, it's worth noting 
 
 ### Step 2: Unplug the antenna
 
-Unplugging the antenna should be pretty straightforward. It won't require much force but, if you've got beefy fingers, you may want to use a small set of pliers to grip the metal collar. Just be sure not to damage the plug, as we'll need to use it again.
+Unplugging the antenna should be pretty straightforward. It won't require much force but, if you've got beefy fingers, you may want to use a small pair of pliers to grip the metal collar and pull. Just be sure not to damage the plug, as we'll need to use it again.
 
 ![Picture of the antenna cable unplugged from the head unit and circled in red.](assets/img/beat-fm-band-expander/aerial-unplugged.jpg)
 
