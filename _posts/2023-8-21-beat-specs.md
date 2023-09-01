@@ -32,7 +32,7 @@ Came with a Momo Ferrari-branded steering wheel and Japanese electronic toll car
 {% for post in site.posts %}
   {% if post.categories contains "beat" %}
     {% unless post.tags contains "specs" %}
-      <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      * [{{ post.title }}]({{ post.url }})
     {% endunless %}
   {% endif %}
 {% endfor %}
