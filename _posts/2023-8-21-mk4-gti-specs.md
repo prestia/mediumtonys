@@ -24,7 +24,7 @@ Purchased from a a private seller on 7/15/2023 with 212,509 miles for $200 with 
 
 ## Modifications
 Prior to purchase:
-* K&W coil overs
+* KW coil overs
 * APR R1 diverter valve
 * ECS Tuning control arms and tie rods
 * 034 Motorsport engine mounts
