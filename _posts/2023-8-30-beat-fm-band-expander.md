@@ -66,7 +66,7 @@ To determine the potential frequency collisions in your area:
 3. 22-18 AWG ring terminal
 4. 22-18 AWG quick disconnect
 5. Crimp tool
-6. 22-18 AWG insulated wire (optional)
+6. 22-18 AWG insulated wire
 
 ## Instructions
 
@@ -102,4 +102,40 @@ Strip about 3/4 of an inch from the end of the ground (black) and power (red) wi
 
 Next, crimp the ring terminal to the ground (black) wire and one half of the quick disconnect to the power (red) wire. We'll connect the ring terminal to a screw and the quick disconnect to a 12v accessory wire in a later step.
 
-### Step 4: 
+### Step 4: Connect the band expander to the head unit
+
+This step is pretty straightforward. Plug the antenna cable into one end of the band expander and then plug the other end into the head unit where you previously removed the antenna cable. It should look like this:
+
+![Picture of the band expander plugged into the head unit and antenna cable.](assets/img/beat-fm-band-expander/box-connected.jpg)
+
+
+### Step 5: Ground the band expander
+
+You have some flexibility here. The goal is to attach the ring terminal you attached in Step 3 to a bare metal post. I ended up using this screw:
+
+![Picture of the band expander grounded on a screw under the dash.](assets/img/beat-fm-band-expander/box-grounded.jpg)
+
+
+Just remember that all of the screws under here are JIS and not Phillips. If you use a Phillips screw driver, be careful not to strip them.
+
+### Step 6: Power the band expander
+
+We're nearly done! The goal here is to find a wire we can tap into for a 12v power supply. The band expander pulls around half an amp, so you can be pretty confident that you won't blow a fuse no matter what source you choose. The real key is finding a source that is only powered when the key switches to the accessory position. Otherwise, the band expander will slowly drain your battery when parked, though it would take a ridiculous amount of time.
+
+There are several options behind the head unit, but my hands are a bit too beefy to reach them comfortably. If that's true for you too, you can put that optional 22-18 AWG wire to use! The fuse box under the dash on the right has plenty of options. I ended up tapping into one of those wires and running a piece of wire under the dash and over to the band expander:
+
+![Picture of the band expander connected to a 12v source.](assets/img/beat-fm-band-expander/installed-powered.jpg)
+
+Not sure how to find a 12v accessory power source? Turn your key to ACC or ON, connect the black probe on your multimeter to any of the bare metal under the dash, and then power around with the red probe until you find a source providing 12v. When you find one, switch the key to the off position and test the source again. If you're reading 0v, you found your power source. If you're still reading 12v, start the search again.
+
+### Step 7: Test the band expander
+
+You band expander should be fully functional now! Before we tuck everything away, you should test it out by turning on the radio and scrolling through stations. If you're in the U.S. and receiving any stations below 88 MHz, you succeeded!
+
+### Step 8: Hide the band expander
+
+With everything wired and tested, you can now tuck the band expander behind your head unit and re-install the carpet. This is one of the rare times as a Beat owner that you'll find yourself with more than enough space.
+
+![Picture of the band expander hidden and carpet installed.](assets/img/beat-fm-band-expander/carpet-installed.jpg)
+
+Now, save some stations to your presets and get driving!
