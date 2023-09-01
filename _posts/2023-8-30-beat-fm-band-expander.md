@@ -145,5 +145,5 @@ With everything wired and tested, you can now tuck the band expander behind your
 
 Now, save some presets and enjoy!
 
-### Outro
+### Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-8-30-beat-fm-band-expander.md).
