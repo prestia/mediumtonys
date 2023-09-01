@@ -120,17 +120,21 @@ Just remember that all of the screws under here are JIS and not Phillips. If you
 
 ### Step 6: Power the band expander
 
-We're nearly done! The goal here is to find a wire we can tap into for a 12v power supply. The band expander pulls around half an amp, so you can be pretty confident that you won't blow a fuse no matter what source you choose. The real key is finding a source that is only powered when the key switches to the accessory position. Otherwise, the band expander will slowly drain your battery when parked, though it would take a ridiculous amount of time.
+We're nearly done! The goal here is to find a wire we can tap into for 12v power. The band expander pulls around half an amp, so you can be pretty confident that you won't blow a fuse no matter what source you choose. The key is finding a source that is only powered when the key switches to the accessory position. Otherwise, the band expander will _very_ slowly drain your battery over time.
 
-There are several options behind the head unit, but my hands are a bit too beefy to reach them comfortably. If that's true for you too, you can put that optional 22-18 AWG wire to use! The fuse box under the dash on the right has plenty of options. I ended up tapping into one of those wires and running a piece of wire under the dash and over to the band expander:
+There are several options for 12v accessory power behind the head unit, but my hands are a bit too beefy to reach them comfortably. If that's true for you too, you can put that 22-18 AWG wire to use! The fuse box under the dash on the right has plenty of options. I ended up tapping into one of those wires and running a piece of wire under the dash and over to the band expander:
 
 ![Picture of the band expander connected to a 12v source.](assets/img/beat-fm-band-expander/installed-powered.jpg)
 
-Not sure how to find a 12v accessory power source? Turn your key to ACC or ON, connect the black probe on your multimeter to any of the bare metal under the dash, and then power around with the red probe until you find a source providing 12v. When you find one, switch the key to the off position and test the source again. If you're reading 0v, you found your power source. If you're still reading 12v, start the search again.
+Not sure how to find a 12v accessory power source? Turn your key to ACC or ON, connect the black probe on your multimeter to any of the bare metal surfaces under the dash, and then poke around with the red probe until you find a source providing 12v:
+
+![Picture of a multimeter finding a 12v source.](assets/img/beat-fm-band-expander/12v-source.jpg)
+
+When you find a 12v source, switch the key to the off position and test the source again. If it reads 0v, you found your power source. If you're still reading 12v, start the search again.
 
 ### Step 7: Test the band expander
 
-You band expander should be fully functional now! Before we tuck everything away, you should test it out by turning on the radio and scrolling through stations. If you're in the U.S. and receiving any stations below 88 MHz, you succeeded!
+Your band expander should be fully functional now! Before we tuck everything away, you should test it by turning on the radio and scrolling through stations. If you're in the U.S. and receiving any stations below 88 MHz, you succeeded! In my case, I was blasting T. Swift before I even left the 70s.
 
 ### Step 8: Hide the band expander
 
