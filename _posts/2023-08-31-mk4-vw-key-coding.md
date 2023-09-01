@@ -34,3 +34,8 @@ Documentation is sparse and, unlike the paid tools, kw1281test is command-line o
 3. A set of _new_ transponders ([this 4-pack](https://www.amazon.com/dp/B098MC82J6?psc=1&ref=ppx_yo2ov_dt_b_product_details) is cheap and works). The transponders _must_ be new. You cannot reuse transponders that have been used with another VW.
 4. A USB-A to USB-C adapter (optional)
 
+## Instructions
+
+### Step 1: Install FTDI drivers
+
+[stay tuned...]
