@@ -11,7 +11,7 @@ If you're reading this tutorial, it's probably because you were disappointed whe
 
 Thankfully, if you have the stock Honda Beat Gathers head unit, there's a relatively simple fix: Install a [band expander](https://en.wikipedia.org/wiki/Band_expander) to tune in to stations above 95 MHz.
 
-The name "band expander" is a bit misleading. The device doesn't allow your radio to tune in to a wider range of stations. Rather, it shifts the frequency of each station by a set amount. Your head unit will still show 76-95 but you'll actually be listening to something 14Mhz (or 28 MHz) higher.
+The name "band expander" is a bit misleading. The device doesn't allow your radio to tune in to a wider range of stations. Rather, it shifts the frequency of each station by a set amount. Your head unit will still show 76-95 but you'll actually be listening to something 14 Mhz (or 28 MHz) higher.
 
 ![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](assets/img/beat-fm-band-expander/band-expander.jpg)
 
@@ -53,7 +53,7 @@ For example, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?s
 | 88.7 | 88.7 | 102.7 | College/Top 40 |
 | 89.9 | 89.9 | 103.9 | Public radio/Spanish hits |
 
-There are some very popular stations in there — KCRW, KDAY, KIIS, KBIG, KPWR — and, in my testing, the more popular station came in clear enough that you wouldn't know there's a conflict at all. Only one frequecy (79.5) had noticeable interference. This is potentially great news if you like pop, hip-hop, country, and other popular genres of music. It's less good if you like regional stations, classical, or Christian.
+There are some very popular stations in there — KCRW, KDAY, KIIS, KBIG, KPWR — and, in my testing, the more popular station came in clear enough that you wouldn't know there's a conflict at all. Only one frequency (79.5) had noticeable interference. This is potentially great news if you like pop, hip-hop, country, and other popular genres of music. It's less good if you like regional stations, classical, or Christian.
 
 To determine the potential frequency collisions in your area:
 1. Look up the available stations in your Zip code on [Radio Locator](https://radio-locator.com/).
@@ -64,7 +64,7 @@ To determine the potential frequency collisions in your area:
 1. FM band expander (I bought [this cheap one](https://www.amazon.com/dp/B07TV7MWT1) on Amazon)
 2. Multimeter (anything capable of measuring 12v DC will do)
 3. 22-18 AWG ring terminal
-4. 22-18 AWG quick diconnect
+4. 22-18 AWG quick disconnect
 5. Crimp tool
 6. 22-18 AWG insulated wire (optional)
 
@@ -85,3 +85,21 @@ Fortunately, you should be able to reach this port without removing the head uni
 You should only need to undo a bit of velcro and get around a single snap. It really doesn't take much. You'll also have fewer wires and obstacles in the way than the photo suggests. I have a Japanese electronic toll card installed in this same spot.
 
 While this tutorial doesn't require removal of the head unit, it's worth noting that the small gold screw in front of the antenna cable is one of the only two holding the head unit in place. To remove the head unit, simply undo that gold screw and its twin on the other side. Please remember that these are JIS screws and a normal Phillips head could strip it!
+
+### Step 2: Unplug the antenna
+
+Unplugging the antenna should be pretty straightforward. It won't require much force but, if you've got beefy fingers, you may want to use a small set of pliers to grip the metal collar. Just be sure not to damage the plug, as we'll need to use it again.
+
+![Picture of the antenna cable unplugged from the head unit and circled in red.](assets/img/beat-fm-band-expander/aerial-unplugged.jpg)
+
+### Step 3: Attach the ring terminal and quick disconnect to the band expander
+
+I did this later in the process but, looking back, I wish I had done it while the band expander was still outside the car.
+
+Strip about 3/4 of an inch from the end of the ground (black) and power (red) wires on the band expander:
+
+![Picture of the band expander with ground a power wires stripped.](assets/img/beat-fm-band-expander/strip-wires.jpg)
+
+Next, crimp the ring terminal to the ground (black) wire and one half of the quick disconnect to the power (red) wire. We'll connect the ring terminal to a screw and the quick disconnect to a 12v accessory wire in a later step.
+
+### Step 4: 
