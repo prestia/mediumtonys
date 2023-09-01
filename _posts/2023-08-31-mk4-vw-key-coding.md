@@ -11,7 +11,7 @@ I bought a 2002 VW GTI 1.8T for $200 in July 2023 to turn into a [24 Hours of Le
 
 After getting the car running, my priority was addressing the fact that I had a single key. I'm prone to putting things in places that are so secure even I can never find them again, and I didn't want that to happen to the VW.
 
-Unfortunately, certain Mk4 VWs — I think post-2000, but don't quote me on that — have an immobilizer that makes it impossible to simply have a new key cut. While a duplicate key will start the car, it will immediately shut down and greet the prospective pilot with a dreaded glyph:
+Unfortunately, certain Mk4 VWs — I think post-2000, but don't quote me on that — have an immobilizer that makes it impossible to simply have a new key cut. While a duplicate key will start the car, it will immediately shut down and greet the prospective pilot with the most dreaded of glyphs:
 
 ![Immo3 light in a Mk4 gauge cluster.](assets/img/mk4-key-coding/immo3.jpg)
 
