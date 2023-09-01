@@ -15,7 +15,7 @@ The name "band expander" is a bit misleading. The device doesn't allow your radi
 
 ![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](assets/img/beat-fm-band-expander/band-expander.jpg)
 
-Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz).
+Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz). Anything under 90 MHz is left alone.
 
 To make this more concrete, here's how a few LA radio stations would be reduced:
 
