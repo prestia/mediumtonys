@@ -17,7 +17,7 @@ Unfortunately, certain Mk4 VWs — I think post-2000, but don't quote me on that
 
 If you see this light, the immobilizer has kicked in and you're not going anywhere until you get a transponder coded (or "adapted") to work with the car.
 
-There are a few tools that can do this, but they're quite expensive or require Windows or only work for a certain number of cars or have other obnoxious restrictions. Considering this software cost more than the $200 I paid for the car, I looked for more frugal options. Call me parsitonyous.
+There are a few tools that can do this, but they're either quite expensive or require Windows or only work for a certain number of cars or have other obnoxious restrictions. Considering this software costs more than the $200 I paid for the car, I looked for more frugal options. Call me parsitonyous.
 
 I don't blame you if you stop reading now.
 
@@ -31,5 +31,6 @@ Documentation is sparse and, unlike the paid tools, kw1281test is command-line o
 
 1. A laptop (or desktop _very_ close to your VW). I did this on a Mac, but it should also work on Linux and Windows (with some slight tweaks outlined in the [wiki](https://github.com/gmenounos/kw1281test/wiki)).
 2. A USB -> KKL cable. Most of the cheap ones have a CH340 chip that will only work on Windows. If you plan to use a Mac or Linux, you'll need one with an FTDI chipset, like [this one](https://www.amazon.com/dp/B0BFDYC4SK). Honestly, just buy an FTDI cable because it works on Windows too.
-3. A USB-A to USB-C adapter (optional)
+3. A set of _new_ transponders ([this 4-pack](https://www.amazon.com/dp/B098MC82J6?psc=1&ref=ppx_yo2ov_dt_b_product_details) is cheap and works). The transponders _must_ be new. You cannot reuse transponders that have been used with another VW.
+4. A USB-A to USB-C adapter (optional)
 
