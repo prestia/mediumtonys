@@ -111,7 +111,7 @@ This step is pretty straightforward. Plug the antenna cable into one end of the 
 
 ### Step 5: Ground the band expander
 
-You have some flexibility here. The goal is to attach the ring terminal you attached in Step 3 to a bare metal post. I ended up using this screw:
+You have some flexibility here. The goal is to connect the ring terminal you attached in Step 3 to a bare metal post. I ended up using this screw:
 
 ![Picture of the band expander grounded on a screw under the dash.](assets/img/beat-fm-band-expander/box-grounded.jpg)
 
