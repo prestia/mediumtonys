@@ -108,7 +108,7 @@ This step is pretty straightforward. Plug the antenna cable into one end of the 
 
 ![Picture of the band expander plugged into the head unit and antenna cable.](assets/img/beat-fm-band-expander/box-connected.jpg)
 
-The band expander should glide smoothly into the head unit. If you're meeting any resistance, back it out and try again. You probably came in at a slight angle. You'll eventually get it. Be patient.
+The band expander should glide smoothly into the head unit. If you're meeting any resistance, back it out and try again. You probably came in at a slight angle. You'll eventually get it. Be patient. You're having a good time.
 
 ### Step 5: Ground the band expander
 
