@@ -121,7 +121,7 @@ Just remember that all of the screws under here are JIS and not Phillips. If you
 
 ### Step 6: Power the band expander
 
-We're nearly done! The goal here is to find a wire we can tap into for 12v power. The band expander pulls around half an amp, so you can be pretty confident that you won't blow a fuse no matter what source you choose. The key is finding a source that is only powered when the key switches to the accessory position. Otherwise, the band expander will _very_ slowly drain your battery over time.
+We're nearly done! The goal here is to find a wire we can tap in to for 12v power. The band expander pulls around half an amp, so you can be pretty confident that you won't blow a fuse no matter what source you choose. The key is finding a source that is only powered when the key switches to the accessory position. Otherwise, the band expander will _very_ slowly drain your battery over time.
 
 There are several options for 12v accessory power behind the head unit, but my hands are a bit too beefy to reach them comfortably. If that's true for you too, you can put that 22-18 AWG wire to use! The fuse box under the dash on the right has plenty of options. I ended up tapping into one of those wires and running a piece of wire under the dash and over to the band expander:
 
