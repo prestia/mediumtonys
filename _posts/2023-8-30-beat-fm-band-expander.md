@@ -36,9 +36,9 @@ To make this more concrete, here's how a few LA radio stations would be reduced:
 |  KROQ   |  106.7  |  78.7   | Alternative |
 
 ## Drawbacks
-The main drawback of using a band expander is that we're trying to get a radio that can receive 14 MHz of spectrum to receive 20 MHz of spectrum. In this way, I guess it _technically_ expands the available FM bands. However, in practice, it's more likely to create frequency collisions that reduce the number of stations you can hear clearly.
+The main drawback of using a band expander is that we're trying to get a radio that can receive 14 MHz of spectrum to receive 20 MHz of spectrum. In this way, I guess it _technically_ expands the available FM bands. However, in practice, it's more likely to create frequency collisions that could reduce the number of stations you can hear clearly.
 
-For exmaple, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?select=city&city=Los%20Angeles&state=CA) data, these are all of the potential collisions in Los Angeles:
+For example, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?select=city&city=Los%20Angeles&state=CA) data, these are all of the potential collisions in Los Angeles:
 
 | Freq | Station 1 | Station 2 | Conflicting Formats |
 |:-------:|:-------:|:-------:|:-------:|
@@ -53,7 +53,7 @@ For exmaple, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?s
 | 88.7 | 88.7 | 102.7 | College/Top 40 |
 | 89.9 | 89.9 | 103.9 | Public radio/Spanish hits |
 
-There are some very popular stations in there — KCRW, KDAY, KIIS, KBIG, KPWR — but it's still much better than having no radio at all.
+There are some very popular stations in there — KCRW, KDAY, KIIS, KBIG, KPWR — and, in my testing, the more popular station came in clear enough that you wouldn't know there's a conflict at all. Only one frequecy (79.5) had noticeable interference. This is potentially great news if you like pop, hip-hop, country, and other popular genres of music. It's less good if you like regional stations, classical, or Christian.
 
 To determine the potential frequency collisions in your area:
 1. Look up the available stations in your Zip code on [Radio Locator](https://radio-locator.com/).
