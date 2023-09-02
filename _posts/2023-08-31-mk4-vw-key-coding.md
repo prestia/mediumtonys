@@ -38,7 +38,7 @@ Documentation is sparse and, unlike the paid tools, kw1281test is command-line o
 
 ### Step 1: Install FTDI drivers
 
-I'm going to describe installation on a Mac because that's the primary platform I use. Instructions for Linux are avaiable [here](https://github.com/gmenounos/kw1281test/wiki#linux). If you're on windows, ¯\\_(ツ)_/¯.
+I'm going to describe installation on a Mac because that's the primary platform I use. Instructions for Linux are avaiable [here](https://github.com/gmenounos/kw1281test/wiki#linux). If you're on windows, ¯\\\_(ツ)\_/¯.
 
 To use kw1281test on Mac, you'll need to be running macOS 10.4 or higher.
 
@@ -62,7 +62,7 @@ The installation process works roughly as follows, but you may need to change th
 To use kw1281test, we'll need to know the serial number of your KKL cable. On Mac, this is simple:
 
 1. Plug in your cable. If you only have USB-C ports on your mac, this is where that USB-A to USB-C adapter will be required.
-2. Click the Apple () icon in the top left of your menu barmenu
+2. Click the Apple () icon in the top left of your menu barmenu
 3. Hold down the option (⌥) key and then click `System Information...` (if you're not holding down ⌥, this will be called `About This Mac`)
 4. Click `USB` under the `Hardware` heading in the left pane
 5. Here you should see your cable in the maimn window under the `USB Device Tree` header
