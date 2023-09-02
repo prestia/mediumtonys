@@ -38,4 +38,25 @@ Documentation is sparse and, unlike the paid tools, kw1281test is command-line o
 
 ### Step 1: Install FTDI drivers
 
+I'm going to describe installation on a Mac because that's the primary platform I use. Instructions for Linux are avaiable [here](https://github.com/gmenounos/kw1281test/wiki#linux). If you're on windows, ¯\_(ツ)_/¯.
+
+To use kw1281test on Mac, you'll need to be running macOS 10.4 or higher.
+
+Download the [FTDI drivers](https://ftdichip.com/drivers/d2xx-drivers/) for your platform. Make sure to pay attention to your system architecture (x64 or ARM). Choose x64 if you're on an Intel-based Mac; choose ARM for Macs with Apple silicon (M1, M2, etc.).
+
+Once downloaded, unzip the drivers to your Desktop. This should create a folder called `release`.
+
+The installation process works roughly as follows, but you may need to change the driver version number in steps 4 and 5:
+
+1. Open a Terminal window
+2. If the `/usr/local/lib` directory does not exist, create it: `sudo mkdir /usr/local/lib`
+3. If the `/usr/local/include` directory does not exist, create it: `sudo mkdir /usr/local/include`
+4. Copy the dylib file to `/usr/local/lib`: `sudo cp ~/Desktop/release/build/libftd2xx.1.4.24.dylib /usr/local/lib/libftd2xx.1.4.24.dylib`
+5. Make a symbolic link: `sudo ln -sf /usr/local/lib/libftd2xx.1.4.24.dylib /usr/local/lib/libftd2xx.dylib`
+6. Copy the D2XX include file: `sudo cp ~/Desktop/release/ftd2xx.h /usr/local/include/ftd2xx.h`
+7. Copy the WinTypes include file: `sudo cp ~/Desktop/release/WinTypes.h /usr/local/include/WinTypes.h`
+8. Delete the `release` folder from your desktop
+
+### Step 2: Find the serial number of your KKL cable
+
 [stay tuned...]
