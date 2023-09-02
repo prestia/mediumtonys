@@ -29,14 +29,14 @@ Documentation is sparse and, unlike the paid tools, kw1281test is command-line o
 
 ## Parts & tools
 
-1. A laptop (or desktop _very_ close to your VW). I did this on a Mac, but it should also work on Linux and Windows (with some slight tweaks outlined in the [wiki](https://github.com/gmenounos/kw1281test/wiki)).
-2. A USB -> KKL cable. Most of the cheap ones have a CH340 chip that will only work on Windows. If you plan to use a Mac or Linux, you'll need one with an FTDI chipset, like [this one](https://www.amazon.com/dp/B0BFDYC4SK). Honestly, just buy an FTDI cable because it works on Windows too.
-3. A set of _new_ transponders ([this 4-pack](https://www.amazon.com/dp/B098MC82J6?psc=1&ref=ppx_yo2ov_dt_b_product_details) is cheap and works). The transponders _must_ be new. You cannot reuse transponders that have been used with another VW.
-4. A USB-A to USB-C adapter (optional)
+1. Laptop (or desktop _very_ close to your VW). I did this on a Mac, but it should also work on Linux and Windows (with some slight tweaks outlined in the [wiki](https://github.com/gmenounos/kw1281test/wiki)).
+2. USB -> KKL cable. Most of the cheap ones have a CH340 chip that will only work on Windows. If you plan to use a Mac or Linux, you'll need one with an FTDI chipset, like [this one](https://www.amazon.com/dp/B0BFDYC4SK). Honestly, just buy an FTDI cable because it works on Windows too.
+3. Set of _new_ transponders ([this 4-pack](https://www.amazon.com/dp/B098MC82J6) is cheap and works). The transponders _must_ be new. You cannot reuse transponders that have been used with another VW.
+4. USB-A to USB-C adapter (optional)
 
 ## Instructions
 
-### Step 0: Have some new keys cut and install the transponders
+### Step 0: Cut new keys and install transponders
 
 Creating the physical keys is outside the scope of this DIY, but I'll provide some high-level steps.
 
@@ -44,7 +44,7 @@ First, you'll need to buy some key blanks. I bought [this one without the keyles
 
 Once you have a blank, you'll need to get it cut by a locksmith. I don't know of any self-service kiosks that can cut these VW keys. There are some [online services](https://www.tunemyeuro.com/TME0260) that can sell and cut keys for you in one step.
 
-You'll also need to install your new transponders. I ended up using a dollop of hot glue to secure mine inside of the key housing. There are several [videos on YouTube](https://www.youtube.com/watch?v=EmhOOMH64Vc) explaining this process.
+You'll also need to install your new transponders. I ended up using a dollop of hot glue to secure mine inside the key housing. There are several [videos on YouTube](https://www.youtube.com/watch?v=EmhOOMH64Vc) explaining this process.
 
 It's worth noting that you don't have to wait for keys to be cut before programming the transponders. You could use a single key blade and swap between the transponders (this will make more sense in Step  5).
 
@@ -74,47 +74,47 @@ The installation process works roughly as follows, but you may need to change th
 To use kw1281test, we'll need to know the serial number of your KKL cable. On Mac, this is simple:
 
 1. Plug in your cable. If you only have USB-C ports on your mac, this is where that USB-A to USB-C adapter will be required.
-2. Click the Apple () icon in the top left of your menu barmenu
+2. Click the Apple () icon in the top left of your menu bar
 3. Hold down the option (⌥) key and then click `System Information...` (if you're not holding down ⌥, this will be called `About This Mac`)
 4. Click `USB` under the `Hardware` heading in the left pane
-5. Here you should see your cable in the maimn window under the `USB Device Tree` header
+5. You should see your cable in the main window under the `USB Device Tree` header
 6. Note the 8-character serial number of your cable. If you bought the one I linked above, it's probably just `12345678`.
 
 ### Step 3: Download kw1281test
 
 Go to the [kw1281test release page](https://github.com/gmenounos/kw1281test/releases) and download the latest version for your platform.
 
-This should leave you with an executable called `kw1281test`. To keep things simple, I like to drag this file into my home directory. You can do this by dragging the file into `/Users/prestia` or using the `mv` command in Terminal.
+This should leave you with an executable called `kw1281test`. To keep things simple, I like to place this file in my home directory. You can do this by dragging the file into `/Users/<YOUR USERNAME>` or using the `mv` command in Terminal.
 
-### Step 4: Get your car's SKC
+### Step 4: Get your SKC
 
 Mk4 Volkswagens have a Secret Key Code (SKC) that is required to make certain changes to the car, like coding new keys. This can be tricky to access but, fortunately, kw1281test makes it a breeze:
 
-1. Make sure your KKL cable is plugged into your Mac via USB and the OBD II port of your car (it's likely under the dash to the left of the steering wheel).
-2. Insert your existing key in the car and put it in the ON/ACC position (do _not_ start the car).
+1. Make sure your KKL cable is connected to your Mac via USB and your car via the OBD II port (look under the dash to the left of the steering wheel).
+2. Insert a key and put it in the ON/ACC position. Do _not_ start the car.
 3. Open Terminal on your Mac. If you've never used Terminal before, you can find it via Spotlight or in Applications > Utilities > Terminal.
-4. In Terminal, type: `./kw1281test <serial number> 10400 17 GetSKC`. If your serial number was `12345678`, you would type `./kw1281test 12345678 10400 17 GetSKC`.
-5. Eventually, this will display a 5-digit SKC on your screen. If you're only seeing 4 digits, add a 0 to the front.
+4. In Terminal, type: `./kw1281test <serial number> 10400 17 GetSKC`. If your serial number is `12345678`, you would type `./kw1281test 12345678 10400 17 GetSKC`.
+5. Eventually, this will display a 5-digit SKC on your screen. If you only see 4 digits, add a 0 to the front.
 
-### Step 5: Adapt new keys for your VW
+### Step 5: Adapt new keys
 
 The last step is to program (or "adapt") your new keys. The command will look like this:
 ```
 ./kw1281test <serial number> 10400 17 AdaptationSave 21 <number of keys> <SKC>
 ```
 
-For example: If your cable serial number is `12345678` (Step 2), your SKC is `01234` (Step 4), and you want to program 2 keys, your command would be `./kw1281test 12345678 10400 17 AdaptationSave 21 2 01234`.
+If your cable serial number is `12345678` (Step 2), your SKC is `01234` (Step 4), and you want to program 2 keys, your command would be `./kw1281test 12345678 10400 17 AdaptationSave 21 2 01234`.
 
 Assuming your laptop is still connected to your car:
 
 1. Adjust the above command, type it into Terminal, and hit enter.
 2. Take the key out of the ignition.
-3. Put in the first key you'd like to program and turn to the RUN/ACC/ON position, but do _not_ start the car.
-5. The Immo3 light (pictured in the Intro section) should come on and eventually switch off.
+3. Put in the first key you'd like to program -- it could be the one you just removed! -- and turn to the RUN/ACC/ON position, but do _not_ start the car.
+5. The Immo3 light (pictured in the Intro section) should appear and eventually switch off.
 6. When the Immo3 light switches off, remove the key.
 7. Repeat steps 3-6 for each key you'd like to program.
 
-When you're done, test to see that your new keys are able to start the car.
+When you're done, test to see that your new keys are able to start the car. You're done!
 
 ### More uses for kw1281test
 
@@ -125,11 +125,11 @@ Adapting keys is just the start of things you can do with kw1281test. The basic 
 ```
 
 Where:
-* `<serial number>` is the serial number of your cable (see Step 2)
-* `<baud>` is the transmission speed. This will almost always be `10400` or `9600` but you can experiment if you're having trouble
+* `<serial number>` is the serial number of your cable (see Step 2).
+* `<baud>` is the transmission speed. This will almost always be `10400` or `9600` but you can experiment if you're having trouble.
 * `<address>` is the ECU control module we'll be talking to (e.g., `1` is the ECU and `17` is the instrument cluster). I've provided a list of them below.
-* `<command>` is the action you would like to take (see list below)
-* `<args>` are any extra arguments needed to execute the command (see list below)
+* `<command>` is the action you would like to take (see list below).
+* `<args>` are any extra arguments needed to execute the command (see list below).
 
 #### ECU control modules
 
@@ -147,7 +147,7 @@ Where:
 
 #### Commands and arguments
 
-We already covered `GetSKC` and `AdaptationSave` in this guy, but a complete list of commands and arguments are available [here](https://github.com/gmenounos/kw1281test/wiki/Commands). kw1281 test gets really interesting when you start playing with `BasicSetting` -- you can learn more about Basic Settings at [Ross-Tech](https://www.ross-tech.com/vcds/tour/b-settings.php).
+We already covered `GetSKC` and `AdaptationSave` in this guide, but a complete list of commands and arguments is available [here](https://github.com/gmenounos/kw1281test/wiki/Commands). kw1281 test gets really interesting when you start playing with `BasicSetting` -- you can learn more about Basic Settings at [Ross-Tech](https://www.ross-tech.com/vcds/tour/b-settings.php).
 
 ### Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-08-31-mk4-vw-key-coding.md). The developer of kw1281test is also extremely active at [TDI Club](https://forums.tdiclub.com/index.php?threads/kw1281test-a-free-vds-pro-vagtacho-alternative.509151/).
