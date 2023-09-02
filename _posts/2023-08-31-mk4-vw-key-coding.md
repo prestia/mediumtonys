@@ -36,6 +36,18 @@ Documentation is sparse and, unlike the paid tools, kw1281test is command-line o
 
 ## Instructions
 
+### Step 0: Have some new keys cut and install the transponders
+
+Creating the physical keys is outside the scope of this DIY, but I'll provide some high-level steps.
+
+First, you'll need to buy some key blanks. I bought [this one without the keyless entry features](https://www.amazon.com/Replacement-Volkswagen-Buttons-Keyless-Housing/dp/B07Y5MB448/) for $7. There are more expensive versions that include the keyless entry features. You can also get smaller, valet-style keys.
+
+Once you have a blank, you'll need to get it cut by a locksmith. I don't know of any self-service kiosks that can cut these VW keys. There are some [online services](https://www.tunemyeuro.com/TME0260) that can sell and cut keys for you in one step.
+
+You'll also need to install your new transponders. I ended up using a dollop of hot glue to secure mine inside of the key housing. There are several [videos on YouTube](https://www.youtube.com/watch?v=EmhOOMH64Vc) explaining this process.
+
+It's worth noting that you don't have to wait for keys to be cut before programming the transponders. You could use a single key blade and swap between the transponders (this will make more sense in Step  5).
+
 ### Step 1: Install FTDI drivers
 
 I'm going to describe installation on a Mac because that's the primary platform I use. Instructions for Linux are avaiable [here](https://github.com/gmenounos/kw1281test/wiki#linux). If you're on windows, ¯\\\_(ツ)\_/¯
@@ -82,9 +94,12 @@ Mk4 Volkswagens have a Secret Key Code (SKC) that is required to make certain ch
 2. Insert your existing key in the car and put it in the ON/ACC position (do _not_ start the car).
 3. Open Terminal on your Mac. If you've never used Terminal before, you can find it via Spotlight or in Applications > Utilities > Terminal.
 4. In Terminal, type: `./kw1281test <KKL cable serial number> 10400 17 GetSKC`.
+
 If your serial number was `12345678`, you would type `./kw1281test 12345678 10400 17 GetSKC`.
 5. Eventually, this will display a 5-digit SKC on your screen. If you're only seeing 4 digits, add a 0 to the front.
 
 ### Step 5: Adapt new keys for your VW
+
+The last step is to program (or "adapt") your new keys.
 
 [stay tuned...]
