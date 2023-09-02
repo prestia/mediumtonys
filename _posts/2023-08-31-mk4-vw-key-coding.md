@@ -145,7 +145,7 @@ Where:
 | 46 | Comfort module   | 9600       |
 | 56 | Radio            | 9600       |
 
-#### kw1281test commands and arguments
+#### Commands and arguments
 
 We already covered `GetSKC` and `AdaptationSave` in this guy, but a complete list of commands and arguments are available [here](https://github.com/gmenounos/kw1281test/wiki/Commands). kw1281 test gets really interesting when you start playing with `BasicSetting` -- you can learn more about Basic Settings at [Ross-Tech](https://www.ross-tech.com/vcds/tour/b-settings.php).
 
