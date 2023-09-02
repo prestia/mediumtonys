@@ -7,7 +7,7 @@ tags: [mk4-git,diy]
 image: mk4-key-coding/key.jpeg
 ---
 ## Intro
-I bought a 2002 VW GTI 1.8T for $200 in July 2023 to turn into a [24 Hours of Lemons](https://24hoursoflemons.com) car. The car hadn't run in years and was in pretty rough shape, but I got it running — well! — for less than $150 in parts (and an embarrassing number of trips to the local pick-a-part).
+I bought a 2002 VW GTI 1.8T for $200 in July 2023 to turn in to a [24 Hours of Lemons](https://24hoursoflemons.com) car. The car hadn't run in years and was in pretty rough shape, but I got it running — well! — for less than $150 in parts (and an embarrassing number of trips to the local pick-a-part).
 
 After getting the car running, my priority was addressing the fact that I had a single key. I'm prone to putting things in places that are so secure even I can never find them again, and I didn't want that to happen to the VW.
 
