@@ -93,13 +93,43 @@ Mk4 Volkswagens have a Secret Key Code (SKC) that is required to make certain ch
 1. Make sure your KKL cable is plugged into your Mac via USB and the OBD II port of your car (it's likely under the dash to the left of the steering wheel).
 2. Insert your existing key in the car and put it in the ON/ACC position (do _not_ start the car).
 3. Open Terminal on your Mac. If you've never used Terminal before, you can find it via Spotlight or in Applications > Utilities > Terminal.
-4. In Terminal, type: `./kw1281test <KKL cable serial number> 10400 17 GetSKC`.
-
-If your serial number was `12345678`, you would type `./kw1281test 12345678 10400 17 GetSKC`.
+4. In Terminal, type: `./kw1281test <serial number> 10400 17 GetSKC`. If your serial number was `12345678`, you would type `./kw1281test 12345678 10400 17 GetSKC`.
 5. Eventually, this will display a 5-digit SKC on your screen. If you're only seeing 4 digits, add a 0 to the front.
 
 ### Step 5: Adapt new keys for your VW
 
 The last step is to program (or "adapt") your new keys.
+
+[stay tuned...]
+
+### More uses for kw1281test
+
+#### Basics
+Adapting keys is just the start of things you can do with kw1281test. The basic structure for commands on Mac and Linux will look like this:
+```
+./kw1281test <serial number> <baud> <address> <command> <arguments>
+```
+
+Where:
+`<serial number>` is the serial number of your cable (see Step 2)
+`<baud>` is the transmission speed. This will almost always be `10400` or `9600` but you can experiment if you're having trouble
+`<address>` is the ECU control module we'll be talking to (e.g., `1` is the ECU and `17` is the instrument cluster). I've provided a list of them below.
+`<command>` is the action you would like to take (see list below)
+`<args>` are any extra arguments needed to execute the command (see list below)
+
+#### ECU control modules
+| Number | Module | Baud |
+|:--:|:----------------:|:----------:|
+| 1  | Engine/ECU       | ?          |
+| 9  | Central electric | ?          |
+| 15 | Airbag           | 9600       |
+| 17 | Cluster          | 10400/9600 |
+| 19 | CAN Gateway      | ?          |
+| 35 | Central locking  | ?          |
+| 37 | Navigation       | ?          |
+| 46 | Comfort module   | 9600       |
+| 56 | Radio            | 9600       |
+
+#### kw1281test Commands
 
 [stay tuned...]
