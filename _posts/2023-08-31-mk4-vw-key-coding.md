@@ -38,7 +38,7 @@ Documentation is sparse and, unlike the paid tools, kw1281test is command-line o
 
 ### Step 1: Install FTDI drivers
 
-I'm going to describe installation on a Mac because that's the primary platform I use. Instructions for Linux are avaiable [here](https://github.com/gmenounos/kw1281test/wiki#linux). If you're on windows, ¯\\\_(ツ)\_/¯.
+I'm going to describe installation on a Mac because that's the primary platform I use. Instructions for Linux are avaiable [here](https://github.com/gmenounos/kw1281test/wiki#linux). If you're on windows, ¯\\\_(ツ)\_/¯
 
 To use kw1281test on Mac, you'll need to be running macOS 10.4 or higher.
 
@@ -81,9 +81,10 @@ Mk4 Volkswagens have a Secret Key Code (SKC) that is required to make certain ch
 1. Make sure your KKL cable is plugged into your Mac via USB and the OBD II port of your car (it's likely under the dash to the left of the steering wheel).
 2. Insert your existing key in the car and put it in the ON/ACC position (do _not_ start the car).
 3. Open Terminal on your Mac. If you've never used Terminal before, you can find it via Spotlight or in Applications > Utilities > Terminal.
-4. In Terminal, type: `./kw1281test <KKL cable serial number> 10400 17 GetSKC`. If your serial number was `12345678`, you would type `./kw1281test 12345678 10400 17 GetSKC`.
+4. In Terminal, type: `./kw1281test <KKL cable serial number> 10400 17 GetSKC`.
+If your serial number was `12345678`, you would type `./kw1281test 12345678 10400 17 GetSKC`.
 5. Eventually, this will display a 5-digit SKC on your screen. If you're only seeing 4 digits, add a 0 to the front.
 
-### Step 5: Adapter new keys for your VW
+### Step 5: Adapt new keys for your VW
 
 [stay tuned...]
