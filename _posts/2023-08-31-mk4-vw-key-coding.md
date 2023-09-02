@@ -98,9 +98,23 @@ Mk4 Volkswagens have a Secret Key Code (SKC) that is required to make certain ch
 
 ### Step 5: Adapt new keys for your VW
 
-The last step is to program (or "adapt") your new keys.
+The last step is to program (or "adapt") your new keys. The command will look like this:
+```
+./kw1281test <serial number> 10400 17 AdaptationSave 21 <number of keys> <SKC>
+```
 
-[stay tuned...]
+For example: If your cable serial number is `12345678` (Step 2), your SKC is `01234` (Step 4), and you want to program 2 keys, your command would be `./kw1281test 12345678 10400 17 AdaptationSave 21 2 01234`.
+
+Assuming your laptop is still connected to your car:
+
+1. Adjust the above command, type it into Terminal, and hit enter.
+2. Take the key out of the ignition.
+3. Put in the first key you'd like to program and turn to the RUN/ACC/ON position, but do _not_ start the car.
+5. The Immo3 light (pictured in the Intro section) should come on and eventually switch off.
+6. When the Immo3 light switches off, remove the key.
+7. Repeat steps 3-6 for each key you'd like to program.
+
+When you're done, test to see that your new keys are able to start the car.
 
 ### More uses for kw1281test
 
@@ -111,13 +125,14 @@ Adapting keys is just the start of things you can do with kw1281test. The basic 
 ```
 
 Where:
-`<serial number>` is the serial number of your cable (see Step 2)
-`<baud>` is the transmission speed. This will almost always be `10400` or `9600` but you can experiment if you're having trouble
-`<address>` is the ECU control module we'll be talking to (e.g., `1` is the ECU and `17` is the instrument cluster). I've provided a list of them below.
-`<command>` is the action you would like to take (see list below)
-`<args>` are any extra arguments needed to execute the command (see list below)
+* `<serial number>` is the serial number of your cable (see Step 2)
+* `<baud>` is the transmission speed. This will almost always be `10400` or `9600` but you can experiment if you're having trouble
+* `<address>` is the ECU control module we'll be talking to (e.g., `1` is the ECU and `17` is the instrument cluster). I've provided a list of them below.
+* `<command>` is the action you would like to take (see list below)
+* `<args>` are any extra arguments needed to execute the command (see list below)
 
 #### ECU control modules
+
 | Number | Module | Baud |
 |:--:|:----------------:|:----------:|
 | 1  | Engine/ECU       | ?          |
@@ -130,6 +145,9 @@ Where:
 | 46 | Comfort module   | 9600       |
 | 56 | Radio            | 9600       |
 
-#### kw1281test Commands
+#### kw1281test commands and arguments
 
-[stay tuned...]
+We already covered `GetSKC` and `AdaptationSave` in this guy, but a complete list of commands and arguments are available [here](https://github.com/gmenounos/kw1281test/wiki/Commands). kw1281 test gets really interesting when you start playing with `BasicSetting` -- you can learn more about Basic Settings at [Ross-Tech](https://www.ross-tech.com/vcds/tour/b-settings.php).
+
+### Contact
+Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-08-31-mk4-vw-key-coding.md). The developer of kw1281test is also extremely active at [TDI Club](https://forums.tdiclub.com/index.php?threads/kw1281test-a-free-vds-pro-vagtacho-alternative.509151/).
