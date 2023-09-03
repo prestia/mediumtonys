@@ -34,7 +34,7 @@ My wife is an absolute genius and changed my life one day. She brought a [closet
 
 ![Picture of fasteners stored in a closet jewelery organizer.](assets/img/access-beat-ecu-and-main-relay/jewelery-organizer.jpg)
 
-I now use this every time I work on a car. Whenever I remove a part, I put all of the fasteners in a pouch and label it with the part, the fastener size, and any other relevant information. I've never lost another bolt or ended a job with extra hardware.
+I now use this every time I work on a car. Whenever I remove a part, I put all of the fasteners in a pouch and label it with the part, fastener size, and any other relevant information. I've never lost another bolt or ended a job with extra hardware.
 
 ### Step 1: Remove the subwoofer/cassette storage
 
@@ -44,7 +44,16 @@ Depending on how your Beat is optioned, you'll either have cassette storage or a
 
 If you have the cassette storage, you can remove this piece from the car. If you have the subwoofer, you'll either have to disconnect the wiring or lift the entire unit and rest it between the seats.
 
+I have the subwoofer, so you'll see this piece resting in the middle throughout the tutorial.
+
 ### Aside: Why not clean your Beat?
+
+Your Beat is 30+ years old at this point. It's probably accumulated some gunk and grime in odd places. Now's a great time to start cleaning some of these plastic panels as you remove them from the car.
+
+![Picture of the center trim piece being cleaned.](assets/img/access-beat-ecu-and-main-relay/clean-odd-surfaces.jpg)
+
+### Step 2: Remove/loosen the side trim pieces
+
 
 
 
