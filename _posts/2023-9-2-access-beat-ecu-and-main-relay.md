@@ -22,9 +22,31 @@ Accessing the main relay is also useful if you want to install a kill switch to 
 
 ## Instructions
 
-### Step 1: Remove
+### Step 0: Come up with a plan for storing fasteners
 
-[stay tuned...]
+You're going to remove a lot of tiny fasteners before this project is over, and some of them can only be purchsed in Japan. Before you start taking things apart, you should come up with a plan for storing them.
+
+You could use a small tray (like this 3D-printed one on the left) or even the ashtray in your Beat:
+
+![Picture of fasteners stored in a tray as well as the Beat's ashtray.](assets/img/access-beat-ecu-and-main-relay/hardware-storage.jpg)
+
+My wife is an absolute genius and changed my life one day. She brought a [closet jewelery organizer](https://www.amazon.com/MISSLO-Dual-sided-Organizer-Necklace-Bracelet/dp/B08GX889W4/) out to the garage along with a small pad of paper:
+
+![Picture of fasteners stored in a closet jewelery organizer.](assets/img/access-beat-ecu-and-main-relay/jewelery-organizer.jpg)
+
+I now use this every time I work on a car. Whenever I remove a part, I put all of the fasteners in a pouch and label it with the part, the fastener size, and any other relevant information. I've never lost another bolt or ended a job with extra hardware.
+
+### Step 1: Remove the subwoofer/cassette storage
+
+Depending on how your Beat is optioned, you'll either have cassette storage or a subwoofer mounted between the seats. There are 4 JIS screws holding this in place. Two on each side:
+
+![Picture of the Beat subwoofer with JIS screws circled in red.](assets/img/access-beat-ecu-and-main-relay/center-console-screws.jpg)
+
+If you have the cassette storage, you can remove this piece from the car. If you have the subwoofer, you'll either have to disconnect the wiring or lift the entire unit and rest it between the seats.
+
+### Aside: Why not clean your Beat?
+
+
 
 ### Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-2-access-beat-ecu-and-main-relay.md).
