@@ -14,7 +14,7 @@ Generally, the Beat takes 3 liters of 10w30 oil. Though Honda recommends the fol
 
 ![Chart of recommended oil weights by outside temperature.](assets/img/beat-faqs/oil-chart.jpg)
 
-The part number for the oil filter is #15400-PLM-A02 and should be pretty widely available in the U.S. Honda recommends replacement every 20,000 km (≈12,500 mi).
+The part number for the oil filter is #15400-PLM-A02 and should be pretty widely available in the U.S. because it was used on other period Hondas. Honda recommends replacement every 20,000 km (≈12,500 mi).
 
 ### Transmission oil
 
@@ -54,7 +54,11 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 
 ## Tires
 
-[stay tuned...]
+Front: 155/65R13 73H
+
+Rear: 165/60R14 74H
+
+Good luck finding these in the U.S.
 
 ## Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-2-access-beat-ecu-and-main-relay.md).
