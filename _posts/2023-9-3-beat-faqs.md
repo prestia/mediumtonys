@@ -55,7 +55,6 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 ## Tires
 
 * Front: 155/65R13 73H
-
 * Rear: 165/60R14 74H
 
 Good luck finding these locally!
