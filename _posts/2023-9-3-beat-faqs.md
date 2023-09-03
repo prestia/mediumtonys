@@ -12,7 +12,7 @@ image: beat-faqs/header.jpg
 
 Generally, the Beat takes 3 liters of 10w30 oil. Though Honda recommends the following weights depending on outside temperature:
 
-![Chart of recommended oil weights by outside temperature.](/beat-faqs/oil-chart.jpg)
+![Chart of recommended oil weights by outside temperature.](assets/img/beat-faqs/oil-chart.jpg)
 
 The part number for the oil filter is #15400-PLM-A02 and should be pretty widely available in the U.S. Honda recommends replacement every 20,000 km or 12,500 mi.
 
