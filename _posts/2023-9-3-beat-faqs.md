@@ -60,4 +60,4 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 Good luck finding these locally!
 
 ## Contact
-Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-2-access-beat-ecu-and-main-relay.md).
+Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-3-beat-faqs.md).
