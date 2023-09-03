@@ -14,11 +14,11 @@ Generally, the Beat takes 3 liters of 10w30 oil. Though Honda recommends the fol
 
 ![Chart of recommended oil weights by outside temperature.](assets/img/beat-faqs/oil-chart.jpg)
 
-The part number for the oil filter is #15400-PLM-A02 and should be pretty widely available in the U.S. Honda recommends replacement every 20,000 km or 12,500 mi.
+The part number for the oil filter is #15400-PLM-A02 and should be pretty widely available in the U.S. Honda recommends replacement every 20,000 km (≈12,500 mi).
 
 ### Transmission oil
 
-Honda recommends 10w30 oil or Honda MTF. Replacement is recommended every 40,000 km or 25,000 mi.
+Honda recommends 10w30 oil or Honda MTF. Replacement is recommended every 40,000 km (≈25,000 mi).
 
 ### Coolant
 
@@ -38,7 +38,7 @@ The Honda Beat runs on "regular" Japanese gas. Regular gas in Japan is >= 89 RON
 
 ## Timing belt
 
-Honda recommendat that the Beat's timing belt is changed every 100,000 km or 62,000 mi. However, a broken timing belt can lead to catastrophic damage to your hard-to-source 3-cylinder engine.
+Honda recommends that the Beat's timing belt is changed every 100,000 km (≈62,000 mi). However, a broken timing belt can lead to catastrophic damage to your hard-to-source 3-cylinder engine.
 
 As a result, most Beat owners recommend changing the timing belt as soon as possible if you don't have records of it being recently changed. When changing the timing belt, you should also change the water pump, idler pulley, and tensioner pulley.
 
@@ -46,11 +46,11 @@ As a result, most Beat owners recommend changing the timing belt as soon as poss
 
 Recommendation is NGK BKR6E-11 or Denso K20PR-U11.
 
-Plugs shold be torqued to 13-15 lb.ft. Gap is 0.030 +/- 0.005
+Plugs should be torqued to 13-15 lb.ft. Gap is 0.030 +/- 0.005.
 
 ## Air filter
 
-Honda recommends replacing the air filter every 40,000 km or 25,000 mi.
+Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 
 ## Tires
 
