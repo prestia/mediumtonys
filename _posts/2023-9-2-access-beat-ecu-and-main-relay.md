@@ -54,6 +54,22 @@ Your Beat is 30+ years old at this point. It's probably accumulated some gunk an
 
 ### Step 2: Remove/loosen the side trim pieces
 
+Next we need to loosen the rear door trim pieces that run from the sills up to the rear deck. We need to completely remove this trim piece on the passenger side, but we only need to loosen the top on the driver's side.
+
+Start on the driver's side and pull the trim toward the front of the car from the top. We're just trying to loosen it. Do not try to completely remove the piece, as it's screwed in toward the bottom.
+
+![Picture of the door trim being pulled back.](assets/img/access-beat-ecu-and-main-relay/drivers-side-trim.jpg)
+
+
+Once the driver's side trim is loosened, move over to the passenger side and do the same thing. Once loosened, remove the JIS screw at the bottom of the trim:
+
+![Picture of the screw holding in the passenger door trim.](assets/img/access-beat-ecu-and-main-relay/passenger-side-trim-screw.jpg)
+
+
+Once removed, move this trim piece out of the way. Your best bet is to pull the seat belt out a bit and rest the trim in the passenger seat or on the rear deck.
+
+### Step 3: Remove the back trim piece
+
 
 
 
