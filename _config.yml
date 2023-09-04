@@ -13,8 +13,8 @@ hide_related_posts:  true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Medium Tony's Garage"
-description:	       "Guides and documentation"
-author:              "Anthony"
+description:	       "Vehicle guides and documentation"
+author:              "Medium Tony"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
