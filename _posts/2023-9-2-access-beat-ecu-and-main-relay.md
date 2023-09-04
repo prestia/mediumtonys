@@ -13,7 +13,7 @@ If you have trouble starting your Beat when the engine's warm, it's probably tim
 
 You may also want to access the ECU and main relay to do some preventative maintenance, like relocating them under the passenger seat or installing heat shielding.
 
-Accessing the main relay is also useful if you want to [install a kill switch](./beat-kill-switch-install/) to make it somewhat less likely that your Beat will get stolen.
+Accessing the main relay is also useful if you want to [install a kill switch](./beat-kill-switch-install) to make it somewhat less likely that your Beat will get stolen.
 
 ## Parts & tools
 1. Stubby JIS 2 screwdriver (You'll need a stubby screwdriver to undo fasteners behind the passenger seat. Alternatively, you could remove the seat.)
@@ -116,7 +116,7 @@ The carpet is secured by several plastic fasteners, but you only need to undo th
 
 ### Conclusion
 
-With the ECU and main relay exposed, you can now attempt to repair them, [install a kill switch](./beat-kill-switch-install/), or install heat shielding to prevent future issues.
+With the ECU and main relay exposed, you can now attempt to repair them, [install a kill switch](./beat-kill-switch-install), or install heat shielding to prevent future issues.
 
 ### Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-2-access-beat-ecu-and-main-relay.md).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIY: Access the Honda Beat ECU and Main Relay"
+title: "DIY: Install a kill switch in the Honda Beat"
 author: "Medium Tony"
 categories: beat
 tags: [beat,diy]
