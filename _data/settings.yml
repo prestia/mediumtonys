@@ -3,9 +3,6 @@ disqus:
   comments: false
   disqus_shortname: ''
 
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
-
 menu:
 - {name: 'Beat',               url: 'beat'}
 - {name: 'E30 Touring',        url: 'e30-touring'}
