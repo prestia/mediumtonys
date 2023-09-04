@@ -22,7 +22,7 @@ To rig our kill switch, we'll need access to the Beat's main relay. Luckily, I'v
 
 ![Picture of ECU and main rela with the main relay circled in red.](assets/img/beat-kill-switch-install/ecu-and-relay-revealed.jpg)
 
-### Step 1: Determine a location for your kill switch
+### Step 1: Unplug the main relay
 
 [stay tuned...]
 
