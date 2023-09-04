@@ -70,8 +70,52 @@ Once removed, move this trim piece out of the way. Your best bet is to pull the 
 
 ### Step 3: Remove the back trim piece
 
+Before you start this step, you'll want to move the seats as far forward as possible.
+
+There should be 4 JIS snap screws along the back trim that are used to secure the soft top cover. We'll need to remove all of these:
+
+![Picture of the screws holding in the rear trim piece.](assets/img/access-beat-ecu-and-main-relay/back-trim-snaps.jpg)
+
+Be particularly careful with these screws because you can only buy replacements in Japan. As of writing, they're each ¥400 (≈$2.74) from Honda before shipping.
+
+Once all of the snap screws are removed, you can start pulling the trim toward the front of the the car until you release 6 fasteners. Once loose, pull the trim straight up.
+
+![Picture of the rear trim being pulled forward.](assets/img/access-beat-ecu-and-main-relay/back-trim-removal.jpg)
+
+If you're lucky, you might find some goodies hidden inside of the trim. I found a pen, a gas discount card, and an unopened cookie:
+
+![Picture of a pen, a gas discount card, and a cookie.](assets/img/access-beat-ecu-and-main-relay/goodies.jpg)
+
+This is what the piece looks like when it's removed:
+
+![Picture of the removed trim piece.](assets/img/access-beat-ecu-and-main-relay/back-trim-fasteners.jpg)
+
+I've circled the 6 fasteners you need to pop out when pulling toward the front of the car.
+
+### Step 4: Remove the document box
+
+With the rear trim piece out of the way, we can now remove the document box behind the passenger seat. There will be two JIS screws at the bottom:
+
+![Picture of bottom doc box screws.](assets/img/access-beat-ecu-and-main-relay/document-box-bottom-screws.jpg)
+
+And two JIS screws at the top:
+
+![Picture of top doc box screws.](assets/img/access-beat-ecu-and-main-relay/document-box-top-screws.jpg)
 
 
+You may have noticed that my top screws are missing. I can only assume the prior own got rid of these for weight savings.
+
+### Step 5: Pull back the carpet to access the ECU and main relay
+
+With the doc box out of the way, you can pull the carpet toward the front of the car to see the ECU and main relay. They're both secured by 10mm bolts.
+
+The carpet is secured by several plastic fasteners, but you only need to undo the upper right one.
+
+![Picture of ECU and main relay.](assets/img/access-beat-ecu-and-main-relay/ecu-and-relay-revealed.jpg)
+
+### Conclusion
+
+With the ECU and main relay exposed, you can now attempt to repair them, install a kill switch, or install heat shielding to prevent future issues.
 
 ### Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-2-access-beat-ecu-and-main-relay.md).
