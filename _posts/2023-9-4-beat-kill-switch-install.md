@@ -12,7 +12,7 @@ This guide will walk you through the process of installing a kill switch that di
 1. [stay tuned...]
 
 ## Parts & tools
-1. 
+1. [stay tuned...]
 
 ## Instructions
 
@@ -20,7 +20,7 @@ This guide will walk you through the process of installing a kill switch that di
 
 To rig our kill switch, we'll need access to the Beat's main relay. Luckily, I've already written [a guide for accessing the relay](./access-beat-ecu-and-main-relay). Once you've worked through that tutorial, I'll see you back here at Step 1.
 
-![Picture of ECU and main rela with the main relay circled in red.](assets/img/eat-kill-switch-install/ecu-and-relay-revealed.jpg)
+![Picture of ECU and main rela with the main relay circled in red.](assets/img/beat-kill-switch-install/ecu-and-relay-revealed.jpg)
 
 ### Step 1: Determine a location for your kill switch
 
