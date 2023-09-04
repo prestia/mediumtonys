@@ -22,7 +22,7 @@ Honda recommends 10w30 oil or Honda MTF. Replacement is recommended every 40,000
 
 ### Coolant
 
-The Beat uses 4.7 liters of of coolant (50% distilled water and 50% stndard Honda Blue) and should be replaced every 2 years.
+The Beat uses 4.7 liters of of coolant (50% distilled water and 50% standard Honda Blue) and should be replaced every 2 years.
 
 ### Brake fluid
 

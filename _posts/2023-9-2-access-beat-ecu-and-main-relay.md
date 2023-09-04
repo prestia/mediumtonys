@@ -24,15 +24,15 @@ Accessing the main relay is also useful if you want to install a kill switch to 
 
 ### Step 0: Come up with a plan for storing fasteners
 
-You're going to remove a lot of tiny fasteners before this project is over, and some of them can only be purchsed in Japan. Before you start taking things apart, you should come up with a plan for storing them.
+You're going to remove a lot of tiny fasteners before this project is over, and some of them can only be purchased in Japan. Before you start taking things apart, you should come up with a plan for storing them.
 
 You could use a small tray (like this 3D-printed one on the left) or even the ashtray in your Beat:
 
 ![Picture of fasteners stored in a tray as well as the Beat's ashtray.](assets/img/access-beat-ecu-and-main-relay/hardware-storage.jpg)
 
-My wife is an absolute genius and changed my life one day. She brought a [closet jewelery organizer](https://www.amazon.com/MISSLO-Dual-sided-Organizer-Necklace-Bracelet/dp/B08GX889W4/) out to the garage along with a small pad of paper:
+My wife is an absolute genius and changed my life one day. She brought a [closet jewelry organizer](https://www.amazon.com/MISSLO-Dual-sided-Organizer-Necklace-Bracelet/dp/B08GX889W4/) out to the garage along with a small pad of paper:
 
-![Picture of fasteners stored in a closet jewelery organizer.](assets/img/access-beat-ecu-and-main-relay/jewelery-organizer.jpg)
+![Picture of fasteners stored in a closet jewelry organizer.](assets/img/access-beat-ecu-and-main-relay/jewelry-organizer.jpg)
 
 I now use this every time I work on a car. Whenever I remove a part, I put all of the fasteners in a pouch and label it with the part, fastener size, and any other relevant information. I've never lost another bolt or ended a job with extra hardware.
 

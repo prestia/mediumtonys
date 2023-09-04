@@ -50,7 +50,7 @@ It's worth noting that you don't have to wait for keys to be cut before programm
 
 ### Step 1: Install FTDI drivers
 
-I'm going to describe installation on a Mac because that's the primary platform I use. Instructions for Linux are avaiable [here](https://github.com/gmenounos/kw1281test/wiki#linux). If you're on windows, ¯\\\_(ツ)\_/¯
+I'm going to describe installation on a Mac because that's the primary platform I use. Instructions for Linux are available [here](https://github.com/gmenounos/kw1281test/wiki#linux). If you're on windows, ¯\\\_(ツ)\_/¯
 
 To use kw1281test on Mac, you'll need to be running macOS 10.4 or higher.
 
@@ -147,7 +147,7 @@ Where:
 
 #### Commands and arguments
 
-We already covered `GetSKC` and `AdaptationSave` in this guide, but a complete list of commands and arguments is available [here](https://github.com/gmenounos/kw1281test/wiki/Commands). kw1281 test gets really interesting when you start playing with `BasicSetting` -- you can learn more about Basic Settings at [Ross-Tech](https://www.ross-tech.com/vcds/tour/b-settings.php).
+We already covered `GetSKC` and `AdaptationSave` in this guide, but a complete list of commands and arguments is available [here](https://github.com/gmenounos/kw1281test/wiki/Commands). kw1281test gets really interesting when you start playing with `BasicSetting` -- you can learn more about Basic Settings at [Ross-Tech](https://www.ross-tech.com/vcds/tour/b-settings.php).
 
 ### Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-08-31-mk4-vw-key-coding.md). The developer of kw1281test is also extremely active at [TDI Club](https://forums.tdiclub.com/index.php?threads/kw1281test-a-free-vds-pro-vagtacho-alternative.509151/).
