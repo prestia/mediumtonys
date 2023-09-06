@@ -66,14 +66,14 @@ Yes. Pressing the `auto volume control button` will illuminate the `auto volume 
 Press the `mute button` to significantly reduce the volume. Press the `mute button` again to return to the previous volume. Note that the mute button _does not_ completely eliminate sound.
 
 ### How can I change the sound balance?
-Pressing the `loudness button` will illuminate the `loudness display` and change the EQ settings to emphasize treble and bass, with the goal of making music sound more dynamic at low volume. Pressing the `loudness button` again will turn off the `loudness display` and your EQ to the neutral setting.
+Pressing the `loudness button` will illuminate the `loudness display` and change the EQ settings to emphasize treble and bass, with the goal of making music sound more dynamic at low volume. Pressing the `loudness button` again will turn off the `loudness display` and return your EQ to a neutral setting.
 
 ### How can I manually adjust the EQ settings?
-Pressing the `audio mode button` will cycle between BAS (`bass dispaly`), TRE (`treble display`), LEFT/RIGHT (`left speaker display`/`right speaker display`), and LOW/HI (`stereo mix display`). If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
+Pressing the `audio mode button` will cycle between `BAS` (`bass dispaly`), `TRE` (`treble display`), `LEFT/RIGHT` (`left speaker display`/`right speaker display`), and `LOW/HI` (`stereo mix display`). If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
 
 When in the adjustment mode, use the `+/- buttons` to change settings as follows:
 
-| Setting | - button | + button |
+| Setting | `- button` | `+ button` |
 |:-------:|:--------:|:--------:|
 |  BAS    | Decrease bass | Increase bass |
 |  TRE    | Decrease treble | Increase treble |
