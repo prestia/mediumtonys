@@ -82,9 +82,13 @@ When in the adjustment mode, use the `+/- buttons` to change settings as follows
 
 ## Radio
 
+![Diagram of the GXC-8290SF radio-related buttons and features.](assets/img/using-the-gathers-radio/gxc-8290sf-radio-translated-clean.jpg)
+
 [stay tuned...]
 
 ## Cassette
+
+![Diagram of the GXC-8290SF tape-related buttons and features.](assets/img/using-the-gathers-radio/gxc-8290sf-cassette-translated-clean.jpg)
 
 [stay tuned...]
 
