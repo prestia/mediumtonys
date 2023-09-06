@@ -40,7 +40,7 @@ The guide is divided into 5 sections:
 4. [CD changer](#cd-changer)
 5. [Error codes](#error-codes)
 
-Please [reach out](mailto:tony@mediumtonysgarage.com)  if you have an info on the 20th Anniversary head unit or feel free to [edit this post directly](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-6-using-the-gathers-radio.md).
+Please [reach out](mailto:tony@mediumtonysgarage.com) if you have an info on the 20th Anniversary head unit or feel free to [edit this post directly](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-6-using-the-gathers-radio.md).
 
 ## General usage
 
@@ -48,30 +48,30 @@ Please [reach out](mailto:tony@mediumtonysgarage.com)  if you have an info on th
 
 
 ### How do I turn on the head unit?
-Push the **power button** when the car is running or the key is in the ACC or ON position.
+Push the `power button` when the car is running or the key is in the ACC or ON position.
 
 ### How do I see the time?
-Push the **clock button** to display the time.
+Push the `clock button` to display the time.
 
 ### How do I set the time?
-While **holding the clock button**, press the **<< button** to adjust the hour and the **>> button** to adjust the minute.
+While `holding the clock button`, press the `<< button` to adjust the hour and the `>> button` to adjust the minute.
 
 ### How do I adjust the volume?
-Tap the **volume up/down button** to adjust the volume by a single step. Hold the **volume up/down button** to continuously adjust the volume. Volume will be reflected in the **volume display** and the **bar-level display**.
+Tap the `volume up/down button` to adjust the volume by a single step. Hold the `volume up/down button` to continuously adjust the volume. Volume will be reflected in the `volume display` and the `bar-level display`.
 
 ### Can I automatically adjust the volume based on vehicle speed?
-Yes. Pressing the **auto volume control button** will illuminate the **auto volume control display** and allow your car to automatically increase and decrease volume in line with vehicle speed. Pushing the **auto volume control button** again will turn off the **auto volume control display** and return you to volume that was set before enabling auto volume control.
+Yes. Pressing the `auto volume control button` will illuminate the `auto volume control display` and allow your car to automatically increase and decrease volume in line with vehicle speed. Pushing the `auto volume control button` again will turn off the `auto volume control display` and return you to volume that was set before enabling auto volume control.
 
 ### How do I temporarily turn down the volume?
-Press the **mute button** to significantly reduce the volume. Press the **mute button** again to return to the previous volume. Note that the mute button _does not_ completely eliminate sound.
+Press the `mute button` to significantly reduce the volume. Press the `mute button` again to return to the previous volume. Note that the mute button _does not_ completely eliminate sound.
 
 ### How can I change the sound balance?
-Pressing the **loudness button** will illuminate the **loudness display** and change the EQ settings to emphasize treble and bass, with the goal of making music sound more dynamic at low volume. Pressing the **loudness button** again will turn off the **loudness display** and your EQ to the neutral setting.
+Pressing the `loudness button` will illuminate the `loudness display` and change the EQ settings to emphasize treble and bass, with the goal of making music sound more dynamic at low volume. Pressing the `loudness button` again will turn off the `loudness display` and your EQ to the neutral setting.
 
 ### How can I manually adjust the EQ settings?
-Pressing the **audio mode button** will cycle between BAS (**bass dispaly**), TRE (**treble display**), LEFT/RIGHT (**left speaker display**/**right speaker display**), and LOW/HI (**stereo mix display**). If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
+Pressing the `audio mode button` will cycle between BAS (`bass dispaly`), TRE (`treble display`), LEFT/RIGHT (`left speaker display`/`right speaker display`), and LOW/HI (`stereo mix display`). If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
 
-When in the adjustment mode, use the **+/- buttons** to change settings as follows:
+When in the adjustment mode, use the `+/- buttons` to change settings as follows:
 
 | Setting | - button | + button |
 |:-------:|:--------:|:--------:|
@@ -92,26 +92,26 @@ When in the adjustment mode, use the **+/- buttons** to change settings as follo
 
 ![Diagram of the GXC-8290SF CD-related buttons and features.](assets/img/using-the-gathers-radio/gxc-8290sf-cd-translated-clean.jpg)
 
-### How do I start and stop the CS changer?
-Press the **CD button** to turn on the CD player. Pressing the **CD button** while the CD player is already active will pause the CD player and activate the **pause display**.
+### How do I start and stop the CD changer?
+Pressing the `CD button` will turn on the CD player. Pressing the `CD button` while the CD player is already active will pause the music and activate the `pause display`.
 
 ### How do I change discs?
-Press the **1-6 buttons** to select the corresponding disc in  your CD changer and it will automatically start playing.
+Press the `1-6 buttons` to select the corresponding disc in  your CD changer and it will automatically start playing.
 
-If no CD changer is connected, the **disc display** will blink. If the CD magazine is empty, the head unit will display Err7.
+If no CD changer is connected, the `disc display` will blink. If the CD magazine is empty, the head unit will display Err7.
 
 ### How do I skip tracks and seek within a song?
-Press the **set button** to switch between skipping tracks and seeking.
+Press the `set button` to switch between skipping tracks and seeking.
 
-When the **set display** is illuminated, the **<< button** will go back a track and the **>> button** will skip ahead a track. Holding either the **<< button** or the **>> button** will continuous skip tracks.
+When the `set display` is illuminated, the `<< button` will go back a track and the `>> button` will skip ahead a track. Holding either the `<< button` or the `>> button` will continuous skip tracks.
 
-When the **set display** is off, holding the **<< button** will rewind the track and holding the **>> button** will fast-forward the track.
+When the `set display` is off, holding the `<< button` will rewind the track and holding the `>> button` will fast-forward the track.
 
 ### How do I quickly sample the songs on a disc?
-Pressing the **scan button** will illuminate the **scan display** and start playing the first 10 seconds of each song in order. If you press the **scan button** again, the **scan display** will turn off and you'll begin listening to the track normally.
+Pressing the `scan button` will illuminate the `scan display` and start playing the first 10 seconds of each song in order. If you press the `scan button` again, the `scan display` will turn off and you'll begin listening to the track normally.
 
 ### How do I put a song on repeat?
-Press the **repeat button** to illuminate the **repeat display** and continuously play the same song. Pressing the **repeat button** again will turn off the **repeat display** and return to sequential playback of the disc.
+Press the `repeat button` to illuminate the `repeat display` and continuously play the same song. Pressing the `repeat button` again will turn off the `repeat display` and return to sequential playback of the disc.
 
 ## Error codes
 
