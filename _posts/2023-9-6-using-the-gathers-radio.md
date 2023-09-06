@@ -103,10 +103,10 @@ Press the **repeat button** to illuminate the **repeat display** and continuousl
 | Err2 | CD | Mechanical error | 2 | Take your CD changer to a repair shop. |
 | HHHH | CD | Temperature error | 3 | Allow the CD changer time to cool off. |
 | Err3 | CD | Function error | 4 | Take your CD changer to a repair shop. |
-| Err5 | CD | Data disk | The disc is a CD-ROM and cannot be played. |
-| Err6 | CD | Disc error | The disc is inserted upside down; eject and re-insert. |
-| Err7 | CD | The magazine is empty | Insert discs in the magazine. |
-| Err8 | Tape | Eject error | Take your head unit to a repair shop. |
+| Err5 | CD | Data disk |  | The disc is a CD-ROM and cannot be played. |
+| Err6 | CD | Disc error |  | The disc is inserted upside down; eject and re-insert. |
+| Err7 | CD | The magazine is empty |  | Insert discs in the magazine. |
+| Err8 | Tape | Eject error |  | Take your head unit to a repair shop. |
 
 Note: Priority determines which error will be displayed in the event of multiple errors occurring at the same time.
 
