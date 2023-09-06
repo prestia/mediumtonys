@@ -32,9 +32,17 @@ Around 2011, Honda released [a new Gathers head unit](https://www.honda.co.jp/AC
 
 This guide will cover setting up and using the premium GXC-8290SF unit. However, much of it will also apply to the GXC-8200SF. As for the "20th Anniversary" head unit, I really have no idea.
 
+The guide is divided into 5 sections:
+
+1. [General usage](#general-usage)
+2. [Radio](#radio)
+3. [Cassette](#cassette)
+4. [CD changer](#cd-changer)
+5. [Error codes](#error-codes)
+
 Please [reach out](mailto:tony@mediumtonysgarage.com)  if you have an info on the 20th Anniversary head unit or feel free to [edit this post directly](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-6-using-the-gathers-radio.md).
 
-## General
+## General usage
 
 ![Diagram of the main GXC-8290SF buttons and features.](assets/img/using-the-gathers-radio/gxc-8290sf-translated-clean.jpg)
 
