@@ -78,7 +78,7 @@ When in the adjustment mode, use the `+/- buttons` to change settings as follows
 |  BAS    | Decrease bass | Increase bass |
 |  TRE    | Decrease treble | Increase treble |
 | LEFT/RIGHT | Shift audio balance left | Shift audio balance right |
-| LOW/HI |  Shift balance to the full Sky Sound setup | Shift balance to the stereo setup |
+| LOW/HI |  Shift balance away from the Sky Sound setup | Shift balance to the Sky Sound setup |
 
 ## Radio
 
@@ -123,7 +123,7 @@ Press the `repeat button` to illuminate the `repeat display` and continuously pl
 | Err3 | CD | Function error | 4 | Take your CD changer to a repair shop. |
 | Err5 | CD | Data disk |  | The disc is a CD-ROM and cannot be played. |
 | Err6 | CD | Disc error |  | The disc is inserted upside down; eject and re-insert. |
-| Err7 | CD | The magazine is empty |  | Insert discs in the magazine. |
+| Err7 | CD | Empty magazine |  | Insert discs in the magazine. |
 | Err8 | Tape | Eject error |  | Take your head unit to a repair shop. |
 
 Note: Priority determines which error will be displayed in the event of multiple errors occurring at the same time.
