@@ -128,5 +128,9 @@ Press the `repeat button` to illuminate the `repeat display` and continuously pl
 
 Note: Priority determines which error will be displayed in the event of multiple errors occurring at the same time.
 
+## More reading
+
+If you haven't already, why don't you [modify your head unit to work with U.S. FM bands](./beat-fm-band-expander)?
+
 ## Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-6-using-the-gathers-radio.md).
