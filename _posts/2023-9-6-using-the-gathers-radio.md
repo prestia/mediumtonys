@@ -54,7 +54,7 @@ Push the `power button` when the car is running or the key is in the ACC or ON p
 Push the `clock button` to display the time.
 
 ### How do I set the time?
-While `holding the clock button`, press the `<< button` to adjust the hour and the `>> button` to adjust the minute.
+While holding the `clock button`, press the `<< button` to adjust the hour and the `>> button` to adjust the minute.
 
 ### How do I adjust the volume?
 Tap the `volume up/down button` to adjust the volume by a single step. Hold the `volume up/down button` to continuously adjust the volume. Volume will be reflected in the `volume display` and the `bar-level display`.
