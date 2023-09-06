@@ -12,7 +12,7 @@ As far as I can tell, there were two main Gathers head units available in the Ho
 
 The GXC-8200SF was the base model radio and produced 2-channel audio at 20W per channel. You likely have this head unit if your car didn't come with dash speakers and a subwoofer (known as "Sky Sound").
 
-![Picture of the GXC-8200SF.](assets/img/using-the-gathers-radio/gxc-8200sfsky-sound-speaker.jpg)
+![Picture of the GXC-8200SF.](assets/img/using-the-gathers-radio/gxc-8200sf.jpg)
 
 The premium radio was the GXC-8290SF (pictured in the header above). This unit produces 4-channel audio at 30W per channel. If you have the Sky Sound speakers, this is probably your unit.
 
