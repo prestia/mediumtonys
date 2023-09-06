@@ -10,19 +10,29 @@ image: using-the-gathers-radio/head-unit-lit.jpg
 
 As far as I can tell, there were two main Gathers head units available in the Honda Beat. The GXC-8200SF and the GXC-8290SF.
 
+### GXC-8200SF
+
 The GXC-8200SF was the base model radio and produced 2-channel audio at 20W per channel. You likely have this head unit if your car didn't come with dash speakers and a subwoofer (known as "Sky Sound").
 
 ![Picture of the GXC-8200SF.](assets/img/using-the-gathers-radio/gxc-8200sf.jpg)
+
+### GXC-8290SF
 
 The premium radio was the GXC-8290SF. This unit produces 4-channel audio at 30W per channel. If you have the Sky Sound speakers, this is probably your unit.
 
 ![Picture of the GXC-8290SF.](assets/img/using-the-gathers-radio/gxc-8290sf.jpg)
 
+### Gathers 20th Anniversary Edition
+
 Around 2011, Honda released [a new Gathers head unit](https://www.honda.co.jp/ACCESS/beat/audio/) for the Beat with an LCD screen, aux input, USB input, and support for iPods and iPhones. This unit is a drop-in replacement for the GXC-8290SF and is capable of powering the stock Sky Sound speakers. These units are rare and increasingly expensive.
 
 ![Picture of the 20th anniversary head unit.](assets/img/using-the-gathers-radio/20ae-gathers.jpg)
 
+### Scope of this guide
+
 This guide will cover setting up and using the premium GXC-8290SF unit. However, much of it will also apply to the GXC-8200SF. As for the "20th Anniversary" head unit, I really have no idea.
+
+Please [reach out](mailto:tony@mediumtonysgarage.com)  if you have an info on the 20th Anniversary head unit or feel free to [edit this post directly](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-6-using-the-gathers-radio.md).
 
 ## General
 
