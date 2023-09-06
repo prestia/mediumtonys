@@ -84,7 +84,29 @@ When in the adjustment mode, use the `+/- buttons` to change settings as follows
 
 ![Diagram of the GXC-8290SF radio-related buttons and features.](assets/img/using-the-gathers-radio/gxc-8290sf-radio-translated-clean.jpg)
 
-[stay tuned...]
+### How do I start listening to AM and FM radio?
+Pressing the `tuner button` will turn on the radio. Pressing the `tuner button` while the radio is already active will cycle between bands (FM1, FM2, and AM). The current band will be shown on the `radio band display`.
+
+### How do I adjust the radio frequency?
+Press the `set button` to switch between different adjustment methods.
+
+When the `set display` is illuminated, the `<< button` will go down in frequency until the radio detects a valid station and the `>> button` will go up in frequency until the radio detects a valid station. Holding either the `<< button` or the `>> button` will continuous skip tracks.
+
+When the `set display` is off, the `<< button` and `>> button` will manually change the frequency. For AM radio, each button press will move 9 kHz. For FM, each press will adjust by .1 MHz. Holding either the `<< button` or `>> button` will automatically adjust the frequency until you let go.
+
+### How do I automatically program station presets?
+Press and hold the `auto memory button` for more than 2 seconds to start automatically scanning and storing radio presets. This process will scan for strong radio stations in the selected band and automatically save them to the 1-6 presets for that band. Each time a station is stored, the `auto memory display` will illuminate and show the channel number and frequency.
+
+### How do I manually save station presets?
+Tune in to the station you would like to save and then hold the `1-6 button` where you would like to save the station for more than 2 seconds.
+
+### How do I listen to my station presets?
+Tune into the correct band for the preset (AM, FM1, or FM2) and then press the `1-6 button` corresponding to the station you would like to hear.
+
+### How do I scan my station presets?
+Pressing the `scan button` will illuminate the `scan display` and start playing 5 seconds of each of station preset in order. If you press the `scan button` again, the `scan display` will turn off and you'll begin listening to the station normally.
+
+If a preset station's signal is too weak, the scan function will automatically skip it.
 
 ## Cassette
 
