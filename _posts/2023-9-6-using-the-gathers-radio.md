@@ -57,21 +57,34 @@ Push the `clock button` to display the time.
 While holding the `clock button`, press the `<< button` to adjust the hour and the `>> button` to adjust the minute.
 
 ### How do I adjust the volume?
-Tap the `volume up/down button` to adjust the volume by a single step. Hold the `volume up/down button` to continuously adjust the volume. Volume will be reflected in the `volume display` and the `bar-level display`.
+Tap the `volume up/down button` to adjust the volume by a single step. Hold the `volume up/down button` to continuously adjust the volume.
+
+Volume will be reflected in the `volume display` and the `bar-level display`.
 
 ### Can I automatically adjust the volume based on vehicle speed?
-Yes. Pressing the `auto volume control button` will illuminate the `auto volume control display` and allow your car to automatically increase and decrease volume in line with vehicle speed. Pushing the `auto volume control button` again will turn off the `auto volume control display` and return you to volume that was set before enabling auto volume control.
+Yes. Pressing the `auto volume control button` will illuminate the `auto volume control display` and allow your car to automatically increase and decrease volume according to vehicle speed.
+
+Pushing the `auto volume control button` again will turn off the `auto volume control display` and return to volume that was set before enabling the feature.
 
 ### How do I temporarily turn down the volume?
-Press the `mute button` to significantly reduce the volume. Press the `mute button` again to return to the previous volume. Note that the mute button _does not_ completely eliminate sound.
+Press the `mute button` to significantly reduce the volume. Press the `mute button` again to return to the previous volume.
+
+Note that the mute button _does not_ completely eliminate sound.
 
 ### How can I change the sound balance?
-Pressing the `loudness button` will illuminate the `loudness display` and change the EQ settings to emphasize treble and bass, with the goal of making music sound more dynamic at low volume. Pressing the `loudness button` again will turn off the `loudness display` and return your EQ to a neutral setting.
+Pressing the `loudness button` will illuminate the `loudness display` and change the EQ settings to emphasize treble and bass, with the goal of making music sound more dynamic at low volume. 
+
+Pressing the `loudness button` again will turn off the `loudness display` and return your EQ to a neutral setting.
 
 ### How can I manually adjust the EQ settings?
-Pressing the `audio mode button` will cycle between `BAS` (`bass display`), `TRE` (`treble display`), `LEFT/RIGHT` (`left speaker display`/`right speaker display`), and `LOW/HI` (`stereo mix display`). If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
+Pressing the `audio mode button` will cycle between:
+* `BAS` (`bass display`);
+* `TRE` (`treble display`);
+* `LEFT/RIGHT` (`left speaker display`/`right speaker display`); and
+* `LOW/HI` (`stereo mix display`).
+If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
 
-When in the adjustment mode, use the `+/- buttons` to change settings as follows:
+Using the `+/- buttons` will adjust settings as follows:
 
 | Setting | `- button` | `+ button` |
 |:-------:|:--------:|:--------:|
