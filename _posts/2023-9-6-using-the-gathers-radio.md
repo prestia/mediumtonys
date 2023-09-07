@@ -69,7 +69,7 @@ Press the `mute button` to significantly reduce the volume. Press the `mute butt
 Pressing the `loudness button` will illuminate the `loudness display` and change the EQ settings to emphasize treble and bass, with the goal of making music sound more dynamic at low volume. Pressing the `loudness button` again will turn off the `loudness display` and return your EQ to a neutral setting.
 
 ### How can I manually adjust the EQ settings?
-Pressing the `audio mode button` will cycle between `BAS` (`bass dispaly`), `TRE` (`treble display`), `LEFT/RIGHT` (`left speaker display`/`right speaker display`), and `LOW/HI` (`stereo mix display`). If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
+Pressing the `audio mode button` will cycle between `BAS` (`bass display`), `TRE` (`treble display`), `LEFT/RIGHT` (`left speaker display`/`right speaker display`), and `LOW/HI` (`stereo mix display`). If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
 
 When in the adjustment mode, use the `+/- buttons` to change settings as follows:
 
@@ -112,7 +112,36 @@ If a preset station's signal is too weak, the scan function will automatically s
 
 ![Diagram of the GXC-8290SF tape-related buttons and features.](assets/img/using-the-gathers-radio/gxc-8290sf-cassette-translated-clean.jpg)
 
-[stay tuned...]
+### How do I listen to a cassette tape?
+Cassette tapes will automatically start playing after being inserted into the `cassette door`. If you switch to another input method -- like radio or CD -- and want to return to the tape, simple press the `cassette button`.
+
+If a tape is not inserted, the `tape display` will flash.
+
+### How do I change the side of the cassette tape?
+Pressing the `cassette button` while a tape is already playing will switch which side of the tape is playing.
+
+### How do I remove the cassette tape from the head unit?
+Press the `eject button`.
+
+### How can I reduce the static noise when listening to a cassette tape?
+
+Pressing the `Dolby button` will cycle through two forms of Dolby noise reduction (Dolby B and Dolby C) and disabling noise reduction. If noise reduction is enabled, it will be shown on the `Dolby display`.
+
+### How can I automatically skip the blank section of a cassette tape?
+Pressing the `blank skip button` will illuminate the `blank skip display` and automatically start fast forwarding the cassette tape if it senses more than 10 seconds of silence. When the end of the tape is reached, it will automatically flip sides and start playing.
+
+### How do fast forward and rewind?
+Pressing the `<< button` once during playback will rewind and pressing the `>> button` once will fast-forward.
+
+### How do I skip or scan songs?
+Press the `scan button` to switch between skipping and scanning modes.
+
+When the `scan display` is illuminated, double tapping the `<< button` will scan tracks in the reverse direction and double tapping the `>> button` will scan tracks in the forward direction.
+
+When the `scan display` is off, double tapping the `<< button` will go back a song and double tapping the `>> button` will go forward a song.
+
+### How do I put a song on repeat?
+Press the `repeat button` to illuminate the `repeat display` and continuously play the same song. Pressing the `repeat button` again will turn off the `repeat display` and return to normal playback of the cassette tape.
 
 ## CD changer
 
