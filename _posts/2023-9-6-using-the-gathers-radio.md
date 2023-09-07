@@ -181,22 +181,30 @@ Pressing the `CD button` while the CD player is already active will pause the mu
 ### How do I change discs?
 Press the `1-6 buttons` to select the corresponding disc in  your CD changer and it will automatically start playing.
 
-If no CD changer is connected, the `disc display` will blink. If the CD magazine is empty, the head unit will display Err7.
+If no CD changer is connected, the `disc display` will blink.
+
+If the CD magazine is empty, the head unit will display Err7.
 
 ### How do I skip tracks and seek within a song?
 Press the `set button` to switch between skipping tracks and seeking.
 
-When the `set display` is illuminated, the `<< button` will go back a track and the `>> button` will skip ahead a track. Holding either the `<< button` or the `>> button` will continuous skip tracks.
+When the `set display` is illuminated, the `<< button` will go back a track and the `>> button` will skip ahead a track. Holding either the `<< button` or the `>> button` will continuously skip tracks.
 
 When the `set display` is off, holding the `<< button` will rewind the track and holding the `>> button` will fast-forward the track.
 
 ### How do I quickly sample the songs on a disc?
-Pressing the `scan button` will illuminate the `scan display` and start playing the first 10 seconds of each song in order. If you press the `scan button` again, the `scan display` will turn off and you'll begin listening to the track normally.
+Pressing the `scan button` will illuminate the `scan display` and start playing the first 10 seconds of each track in order.
+
+If you press the `scan button` again, the `scan display` will turn off and you'll begin listening to the track normally.
 
 ### How do I put a song on repeat?
-Press the `repeat button` to illuminate the `repeat display` and continuously play the same song. Pressing the `repeat button` again will turn off the `repeat display` and return to sequential playback of the disc.
+Press the `repeat button` to illuminate the `repeat display` and continuously play the same song.
+
+Pressing the `repeat button` again will turn off the `repeat display` and return to sequential playback of the disc.
 
 ## Error codes
+
+Here are all of the known error codes for the GXC-8290SF head unit:
 
 | Display error | Mode | Meaning | Priority | Recommended fix |
 |:-------:|:--------:|:--------:|:--------:|:--------:|
