@@ -59,21 +59,21 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 
 Good luck finding these locally!
 
-## How can I tell if my Beat has a limited slip differential?
+## How can I tell if my Beat has an LSD?
 
-There's quite a bit of misinformation on the web about which Beats came with LSDs from the factory. My Version Z did not, but I suspect most of the PP1-110 models did.
+There's quite a bit of misinformation on the web about which Beats came with limited slip differentials from the factory. My Version Z did not, but I suspect most of the PP1-110 models do.
 
 In any event, it's incredibly easy to test whether your Beat currently has an LSD:
 
-1. Put your Beat on a lift or chock the front wheels and jack up the back.
-2. Disengage the parking brake.
-3. Put the car in first gear.
-4. Put on some short shorts.
-5. Spin one of the back wheels as if the car is driving forward.
+1. Put your Beat on a lift or chock the front wheels and jack up the back
+2. Disengage the parking brake
+3. Put the car in first gear
+4. Put on some short shorts (not optional)
+5. Spin one of the back wheels as if the car is driving forward
 
-If the opposite wheel moves in the opposite direction, then you don't have a limited slip differential:
+If the opposite wheel moves in the opposite direction, you don't have a limited slip differential:
 
-![Picture of me not having a limited slip differential](assets/img/beat-faqs/lsd-check-optimized.jpg)
+![Picture of me not having a limited slip differential](assets/img/beat-faqs/lsd-check-optimized.gif)
 
 ## Contact
 Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-3-beat-faqs.md).
