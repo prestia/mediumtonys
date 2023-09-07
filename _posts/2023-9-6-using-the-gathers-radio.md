@@ -82,9 +82,10 @@ Pressing the `audio mode button` will cycle between:
 * `TRE` (`treble display`);
 * `LEFT/RIGHT` (`left speaker display`/`right speaker display`); and
 * `LOW/HI` (`stereo mix display`).
-If you don't touch another buttons for 5 seconds, you'll exit this adjustment mode.
 
-Using the `+/- buttons` will adjust settings as follows:
+If you don't touch another button for 5 seconds, you'll exit this adjustment mode.
+
+Using the `+/- buttons` while an EQ setting is selected will adjust the sound as follows:
 
 | Setting | `- button` | `+ button` |
 |:-------:|:--------:|:--------:|
@@ -98,26 +99,32 @@ Using the `+/- buttons` will adjust settings as follows:
 ![Diagram of the GXC-8290SF radio-related buttons and features.](assets/img/using-the-gathers-radio/gxc-8290sf-radio-translated-clean.jpg)
 
 ### How do I start listening to AM and FM radio?
-Pressing the `tuner button` will turn on the radio. Pressing the `tuner button` while the radio is already active will cycle between bands (FM1, FM2, and AM). The current band will be shown on the `radio band display`.
+Pressing the `tuner button` will turn on the radio. Pressing the `tuner button` while the radio is already active will cycle between bands (FM1, FM2, and AM).
+
+The current band will be shown on the `radio band display`.
 
 ### How do I adjust the radio frequency?
 Press the `set button` to switch between different adjustment methods.
 
-When the `set display` is illuminated, the `<< button` will go down in frequency until the radio detects a valid station and the `>> button` will go up in frequency until the radio detects a valid station. Holding either the `<< button` or the `>> button` will continuous skip tracks.
+When the `set display` is illuminated, the `<< button` will go down in frequency until the radio detects a valid station and the `>> button` will go up in frequency until the radio detects a valid station.
 
-When the `set display` is off, the `<< button` and `>> button` will manually change the frequency. For AM radio, each button press will move 9 kHz. For FM, each press will adjust by .1 MHz. Holding either the `<< button` or `>> button` will automatically adjust the frequency until you let go.
+When the `set display` is off, the `<< button` and `>> button` will manually change the frequency. For AM radio, each button press will move 9 kHz. For FM, each press will adjust by .1 MHz. Holding either the `<< button` or `>> button` will continuously adjust the frequency until you let go.
 
 ### How do I automatically program station presets?
-Press and hold the `auto memory button` for more than 2 seconds to start automatically scanning and storing radio presets. This process will scan for strong radio stations in the selected band and automatically save them to the 1-6 presets for that band. Each time a station is stored, the `auto memory display` will illuminate and show the channel number and frequency.
+Press and hold the `auto memory button` for more than 2 seconds to start automatically scanning and storing radio presets.
+
+This process will scan for strong radio stations in the selected band and automatically save them to the 1-6 presets for that band. Each time a station is stored, the `auto memory display` will illuminate and show the channel number and frequency.
 
 ### How do I manually save station presets?
-Tune in to the station you would like to save and then hold the `1-6 button` where you would like to save the station for more than 2 seconds.
+Tune in to the station you would like to save and then hold the `1-6 button` where you would like the station saved for more than 2 seconds.
 
 ### How do I listen to my station presets?
-Tune into the correct band for the preset (AM, FM1, or FM2) and then press the `1-6 button` corresponding to the station you would like to hear.
+Tune in to the correct band for the preset (AM, FM1, or FM2) and then press the `1-6 button` corresponding to the station you would like to hear.
 
 ### How do I scan my station presets?
-Pressing the `scan button` will illuminate the `scan display` and start playing 5 seconds of each of station preset in order. If you press the `scan button` again, the `scan display` will turn off and you'll begin listening to the station normally.
+Pressing the `scan button` will illuminate the `scan display` and start playing 5 seconds of each of station preset in order.
+
+If you press the `scan button` again, the `scan display` will turn off and you'll begin listening to the station normally.
 
 If a preset station's signal is too weak, the scan function will automatically skip it.
 
@@ -134,16 +141,20 @@ If a tape is not inserted, the `tape display` will flash.
 Pressing the `cassette button` while a tape is already playing will switch which side of the tape is playing.
 
 ### How do I remove the cassette tape from the head unit?
-Press the `eject button`.
+Press the `eject button`. You probably knew this.
 
-### How can I reduce the static noise when listening to a cassette tape?
+### How can I reduce static when listening to a cassette tape?
 
-Pressing the `Dolby button` will cycle through two forms of Dolby noise reduction (Dolby B and Dolby C) and disabling noise reduction. If noise reduction is enabled, it will be shown on the `Dolby display`.
+Pressing the `Dolby button` will cycle through two forms of Dolby noise reduction (Dolby B and Dolby C) and disabling noise reduction.
+
+If noise reduction is enabled, it will be shown on the `Dolby display`.
 
 ### How can I automatically skip the blank section of a cassette tape?
-Pressing the `blank skip button` will illuminate the `blank skip display` and automatically start fast forwarding the cassette tape if it senses more than 10 seconds of silence. When the end of the tape is reached, it will automatically flip sides and start playing.
+Pressing the `blank skip button` will illuminate the `blank skip display` and automatically start fast forwarding the cassette tape if it senses more than 10 seconds of silence.
 
-### How do fast forward and rewind?
+When the end of the tape is reached, it will automatically flip sides and start playing.
+
+### How do I rewind and fast forward?
 Pressing the `<< button` once during playback will rewind and pressing the `>> button` once will fast-forward.
 
 ### How do I skip or scan songs?
@@ -154,14 +165,18 @@ When the `scan display` is illuminated, double tapping the `<< button` will scan
 When the `scan display` is off, double tapping the `<< button` will go back a song and double tapping the `>> button` will go forward a song.
 
 ### How do I put a song on repeat?
-Press the `repeat button` to illuminate the `repeat display` and continuously play the same song. Pressing the `repeat button` again will turn off the `repeat display` and return to normal playback of the cassette tape.
+Press the `repeat button` to illuminate the `repeat display` and continuously play the same song.
+
+Pressing the `repeat button` again will turn off the `repeat display` and return to normal playback of the cassette tape.
 
 ## CD changer
 
 ![Diagram of the GXC-8290SF CD-related buttons and features.](assets/img/using-the-gathers-radio/gxc-8290sf-cd-translated-clean.jpg)
 
 ### How do I start and stop the CD changer?
-Pressing the `CD button` will turn on the CD player. Pressing the `CD button` while the CD player is already active will pause the music and activate the `pause display`.
+Pressing the `CD button` will turn on the CD player.
+
+Pressing the `CD button` while the CD player is already active will pause the music and activate the `pause display`.
 
 ### How do I change discs?
 Press the `1-6 buttons` to select the corresponding disc in  your CD changer and it will automatically start playing.
