@@ -21,7 +21,7 @@ layout: default
   <h2 id="related-posts">Related Posts</h2>
     <ul>
   {% for post in site.posts %}
-    {% if post.categories contains {{page.category}} %}
+    {% if post.categories == page.category %}
       {% unless post.tags contains "specs" %}
       <li>
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
