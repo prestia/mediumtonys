@@ -26,7 +26,7 @@ Originally imported from Japan in November 2022. Purchased at auction on 8/14/20
 
 ## Modifications
 Came with a Momo Ferrari-branded steering wheel and Japanese electronic toll card reader.
-
+{::comment}
 ## Beat-related Posts
 
 {% for post in site.posts %}
@@ -36,3 +36,4 @@ Came with a Momo Ferrari-branded steering wheel and Japanese electronic toll car
     {% endunless %}
   {% endif %}
 {% endfor %}
+{:/comment}
