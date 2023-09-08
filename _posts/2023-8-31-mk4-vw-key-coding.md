@@ -5,6 +5,7 @@ author: "Medium Tony"
 categories: mk4-gti
 tags: [mk4-git,diy]
 image: mk4-key-coding/key.jpeg
+redirect_to: https://fiddly.net/mk4/mk4-vw-key-coding.html
 ---
 ## Intro
 I bought a 2002 VW GTI 1.8T for $200 in July 2023 to turn in to a [24 Hours of Lemons](https://24hoursoflemons.com) car. The car hadn't run in years and was in pretty rough shape, but I got it running — well! — for less than $150 in parts (and an embarrassing number of trips to the local pick-a-part).
