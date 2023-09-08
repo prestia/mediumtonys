@@ -17,25 +17,25 @@ layout: default
   <article>
     {{ content }}
   </article>
-  {% if page.tags contains "specs" %}
-  <h2 id="related-posts">Related Posts</h2>
-    <ul>
-  {% for post in site.posts %}
-    {% if post.categories == page.categories %}
-      {% unless post.tags contains "specs" %}
-      <li>
-        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-      </li>
-      {% endunless %}
-    {% endif %}
-  {% endfor %}
-    </ul>
-  {% endif %}
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}
   {% if site.hide_related_posts != true %}
-    {% include related-posts.html %}
+    {% if page.tags contains "specs" %}
+    <h2 id="related-posts">Related Posts</h2>
+      <ul>
+    {% for post in site.posts %}
+      {% if post.categories == page.categories %}
+        {% unless post.tags contains "specs" %}
+        <li>
+          <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        </li>
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+      </ul>
+    {% endif %}
+#    {% include related-posts.html %}
   {% endif %}
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
