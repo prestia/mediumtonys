@@ -5,6 +5,7 @@ author: "Medium Tony"
 categories: beat
 tags: [beat,diy]
 image: beat-kill-switch-install/kill-switch.jpg
+redirect_to: https://fiddly.net/beat/beat-kill-switch-install.html
 ---
 ## Intro
 This guide will walk you through the process of installing a kill switch that disables your fuel pump. There are quiet a few ways to set up a kill switches, but I like the fuel pump cut-off for a few reasons:
