@@ -34,13 +34,3 @@ Prior to purchase:
 
 After purchase:
 * Hood pins
-
-## GTI-related Posts
-
-{% for post in site.posts %}
-  {% if post.categories contains "mk4-gti" %}
-    {% unless post.tags contains "specs" %}
-* [{{ post.title }}]({{ post.url }})
-    {% endunless %}
-  {% endif %}
-{% endfor %}
