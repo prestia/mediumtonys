@@ -5,6 +5,7 @@ author: "Medium Tony"
 categories: beat
 tags: [beat,diy]
 image: using-the-gathers-radio/head-unit-lit.jpg
+redirect_to: https://fiddly.net/beat/using-the-gathers-radio.html
 ---
 ## Intro
 
