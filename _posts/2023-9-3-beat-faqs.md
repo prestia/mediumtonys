@@ -5,6 +5,7 @@ author: "Medium Tony"
 categories: beat
 tags: [beat,diy]
 image: beat-faqs/header.jpg
+redirect_to: https://fiddly.net/beat/beat-faqs.html
 ---
 ## Fluids
 
