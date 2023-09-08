@@ -17,6 +17,19 @@ layout: default
   <article>
     {{ content }}
   </article>
+  {% if page.tags contains "specs" %}
+  <h2 id="related-posts">Related Posts</h2>
+    <ul>
+  {% for post in site.posts %}
+    {% if post.categories contains {{page.category}} %}
+      {% unless post.tags contains "specs" %}
+      <li>
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+      </li>
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+    </ul>
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}
