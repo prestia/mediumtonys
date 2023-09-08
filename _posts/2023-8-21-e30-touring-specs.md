@@ -41,13 +41,3 @@ This slicktop 320i was originally imported from Italy by a dealer prior to COVID
 * Phone mount
 * Center console cup holder
 * A/C converted to R134
-
-## E30-related Posts
-
-{% for post in site.posts %}
-  {% if post.categories contains "e30-touring" %}
-    {% unless post.tags contains "specs" %}
-* [{{ post.title }}]({{ post.url }})
-    {% endunless %}
-  {% endif %}
-{% endfor %}
